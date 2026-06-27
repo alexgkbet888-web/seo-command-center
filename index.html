@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SEO总控指挥中心</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css?v=20260627-ph10000-structure">
+  </head>
+  <body>
+    <main class="console-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <strong>SEO总控</strong>
+          <span>指挥中心</span>
+        </div>
+        <nav class="side-nav">
+          <a class="active" href="#overview"><span><i class="nav-ico home"></i>概览总览</span><b id="nav-overview">总览</b></a>
+          <a href="#site-table"><span><i class="nav-ico site"></i>网站管理</span><b id="nav-sites">-</b></a>
+          <a href="#seo-progress"><span><i class="nav-ico check"></i>SEO任务</span><b id="nav-actions" class="danger">-</b></a>
+          <a href="#gsc"><span><i class="nav-ico grid"></i>GSC资源</span><b id="nav-gsc">-</b></a>
+          <a href="#sitemap"><span><i class="nav-ico file"></i>Sitemap提交</span><b id="nav-sitemap">-</b></a>
+          <a href="#indexing"><span><i class="nav-ico globe"></i>收录监控</span><b id="nav-indexing">-</b></a>
+          <a href="#keywords"><span><i class="nav-ico dots"></i>关键词分组</span><b id="nav-keywords">-</b></a>
+          <a href="#seo-traffic"><span><i class="nav-ico chart"></i>SEO流量</span><b id="nav-seo-traffic">-</b></a>
+          <a href="#pages"><span><i class="nav-ico page"></i>内容与页面</span><b id="nav-pages">实时</b></a>
+          <a href="#crawler"><span><i class="nav-ico gear"></i>爬虫监控</span><b id="nav-crawler">接入</b></a>
+          <a href="#isolation"><span><i class="nav-ico shield"></i>品牌隔离</span><b id="nav-isolation">-</b></a>
+          <a href="#reports"><span><i class="nav-ico chart"></i>报表中心</span><b id="nav-reports">-</b></a>
+          <a href="#actions"><span><i class="nav-ico bell-small"></i>任务与工作流</span><b id="nav-workflow">-</b></a>
+          <a href="#settings"><span><i class="nav-ico settings"></i>设置中心</span><b id="nav-settings">-</b></a>
+        </nav>
+        <section class="system-card">
+          <h2>系统状态</h2>
+          <div><span>Workers 路由</span><strong>正常</strong></div>
+          <div><span>Pages 部署</span><strong>正常</strong></div>
+          <div><span>Router 指标</span><strong id="router-live-state">接入中</strong></div>
+          <div><span>GSC API</span><strong id="gsc-api-state" class="warn">待接</strong></div>
+          <p id="last-refresh">最后检查：-</p>
+          <button id="refresh-bottom" type="button">查看系统日志</button>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <header class="topbar" id="overview">
+          <h1 id="page-title">SEO指挥中心</h1>
+          <div class="top-actions">
+            <button id="refresh-btn" type="button"><span class="btn-ico">C</span>刷新</button>
+            <label class="auto-refresh">
+              自动刷新 60s
+              <span class="switch"><input id="auto-refresh" type="checkbox" checked></span>
+            </label>
+            <span class="bell" aria-label="告警">!</span>
+            <select aria-label="角色">
+              <option>运营员</option>
+              <option>管理员</option>
+            </select>
+          </div>
+        </header>
+
+        <section class="filter-row">
+          <label>
+            <span>日期范围</span>
+            <input id="date-range" type="text" value="-">
+          </label>
+          <label>
+            <span>批次选择</span>
+            <select id="batch-filter">
+              <option value="all">全部批次</option>
+              <option value="P1">P1批次</option>
+              <option value="P2">P2批次</option>
+            </select>
+          </label>
+          <label>
+            <span>品牌分组</span>
+            <select id="brand-filter"></select>
+          </label>
+          <div class="summary-kpis">
+            <article><i class="kpi-ico globe-blue"></i><div><span>站点总数</span><strong id="kpi-sites">-</strong><small id="kpi-batches">P1 / P2</small></div></article>
+            <article><i class="kpi-ico ok-green"></i><div><span>在线站点</span><strong id="kpi-online">-</strong><small id="kpi-health-rate">-</small></div></article>
+            <article><i class="kpi-ico warn-orange"></i><div><span>异常请求</span><strong id="kpi-issues">-</strong><small id="kpi-issue-rate">实时Router</small></div></article>
+            <article><i class="kpi-ico clock-gray"></i><div><span>Router请求</span><strong id="kpi-router-requests">-</strong><small id="kpi-router-note">实时</small></div></article>
+          </div>
+        </section>
+
+        <section class="grid top-grid">
+          <article class="card progress-card" id="seo-progress">
+            <div class="card-head">
+              <h2>SEO完成进度</h2>
+            </div>
+            <div class="batch-progress">
+              <div>
+                <h3>P1批次 <small id="p1-label">(0站)</small></h3>
+                <p><strong id="p1-seo">-</strong> / <span id="p1-total">-</span><em id="p1-rate">-</em></p>
+                <meter id="p1-meter" min="0" max="100" value="0"></meter>
+                <ul id="p1-checks"></ul>
+              </div>
+              <div>
+                <h3>P2批次 <small id="p2-label">(0站)</small></h3>
+                <p><strong id="p2-seo">-</strong> / <span id="p2-total">-</span><em id="p2-rate">-</em></p>
+                <meter id="p2-meter" min="0" max="100" value="0"></meter>
+                <ul id="p2-checks"></ul>
+              </div>
+            </div>
+          </article>
+
+          <article class="card ring-card" id="gsc">
+            <h2>GSC资源 <small>全站</small></h2>
+            <div class="ring" id="gsc-ring"><span id="gsc-ring-value">-</span><small id="gsc-ring-rate">-</small></div>
+            <strong id="gsc-ring-label">已验证</strong>
+            <p id="gsc-ring-note">全部资源真实状态来自项目数据，不伪造搜索流量</p>
+          </article>
+
+          <article class="card ring-card" id="sitemap">
+            <h2>Sitemap提交</h2>
+            <div class="ring blue" id="sitemap-ring"><span id="sitemap-ring-value">-</span><small id="sitemap-ring-rate">-</small></div>
+            <strong>已提交</strong>
+            <p id="sitemap-ring-note">提交状态来自 GSC/Sitemap 执行报告</p>
+          </article>
+
+          <article class="card funnel-card" id="indexing">
+            <h2>收录监控 <small>全站</small></h2>
+            <div class="funnel">
+              <div style="--w:100%"><span>站点总数</span><b id="funnel-pending">-</b><em id="funnel-pending-rate">-</em></div>
+              <div style="--w:88%"><span>GSC提交</span><b id="funnel-crawled">-</b><em id="funnel-crawled-rate">-</em></div>
+              <div style="--w:76%"><span>Sitemap</span><b id="funnel-indexed">-</b><em id="funnel-indexed-rate">-</em></div>
+              <div style="--w:56%"><span>搜索数据</span><b id="funnel-valid">-</b><em id="funnel-valid-rate">-</em></div>
+            </div>
+            <footer><span>提交覆盖</span><strong id="index-rate">-</strong></footer>
+          </article>
+
+          <article class="card keyword-card" id="keywords">
+            <h2>关键词分组 <small>Top 主题</small></h2>
+            <div id="keyword-list" class="keyword-list"></div>
+          </article>
+        </section>
+
+        <section class="grid mid-grid">
+          <article class="card table-card" id="isolation">
+            <div class="card-head">
+              <h2>品牌隔离检查</h2>
+              <a href="#site-table">查看完整品牌隔离报告</a>
+            </div>
+            <table>
+              <thead><tr><th>品牌组</th><th>跨品牌KW</th><th>内容冲突</th><th>内容重复</th><th>隔离得分</th><th>状态</th></tr></thead>
+              <tbody id="brand-audit"></tbody>
+            </table>
+          </article>
+
+          <article class="card task-card" id="seo-tasks">
+            <h2>今日SEO任务</h2>
+            <div id="task-flow" class="task-flow"></div>
+            <footer><span>今日任务完成进度</span><strong id="task-rate">-</strong></footer>
+          </article>
+
+          <article class="card crawler-card" id="crawler">
+            <div class="card-head">
+              <h2>Router活动 <small>7天</small></h2>
+              <span id="router-source">接入中</span>
+            </div>
+            <div class="chart-legend"><span class="blue-dot">Googlebot</span><span class="green-dot">Bingbot</span><span class="orange-dot">其他</span></div>
+            <div class="line-chart" id="router-chart"></div>
+            <aside id="router-breakdown"></aside>
+          </article>
+        </section>
+
+        <section class="grid bottom-grid">
+          <article class="card seo-traffic-card" id="seo-traffic">
+            <div class="card-head">
+              <h2>SEO流量看板 <small>GSC Search Analytics</small></h2>
+              <div class="table-tools">
+                <select id="seo-sort">
+                  <option value="impressions">按展现</option>
+                  <option value="clicks">按点击</option>
+                  <option value="position">按排名</option>
+                </select>
+                <input id="seo-search" type="search" placeholder="搜索站点/品牌...">
+              </div>
+            </div>
+            <div id="seo-traffic-summary" class="seo-traffic-summary"></div>
+            <table>
+              <thead><tr><th>网站</th><th>品牌</th><th>批次</th><th>点击</th><th>展现</th><th>CTR</th><th>平均排名</th><th>状态</th></tr></thead>
+              <tbody id="seo-traffic-table"></tbody>
+            </table>
+          </article>
+
+          <article class="card table-card" id="pages">
+            <div class="card-head">
+              <h2>请求异常诊断</h2>
+              <a href="#site-table">查看全部页面</a>
+            </div>
+            <table>
+              <thead><tr><th>状态/域名</th><th>请求数</th><th>占比</th><th>来源判断</th><th>处理动作</th></tr></thead>
+              <tbody id="page-status"></tbody>
+            </table>
+          </article>
+
+          <article class="card actions-card" id="actions">
+            <h2>下一步动作 <small>建议</small></h2>
+            <div id="action-list"></div>
+          </article>
+
+          <article class="card site-table-card" id="site-table">
+            <div class="card-head">
+              <h2>站点状态总览 <small id="site-table-count">(0站)</small></h2>
+              <div class="table-tools">
+                <select id="status-filter"><option value="all">全部状态</option><option value="ok">正常</option><option value="issue">异常</option></select>
+                <input id="search-input" type="search" placeholder="搜索域名...">
+              </div>
+            </div>
+            <table>
+              <thead><tr><th>品牌分组</th><th>批次</th><th>站点数</th><th>健康</th><th>正常</th><th>告警</th><th>错误</th><th>未知</th><th>GSC</th><th>Sitemap</th><th>收录</th><th>覆盖率</th></tr></thead>
+              <tbody id="site-status-table"></tbody>
+              <tfoot id="site-status-total"></tfoot>
+            </table>
+          </article>
+        </section>
+
+        <section class="grid full-grid">
+          <article class="card api-card" id="reports">
+            <div class="card-head">
+              <h2>报表中心 <small>API接入状态</small></h2>
+              <span id="data-generated-at">-</span>
+            </div>
+            <div id="api-status-list" class="api-status-list"></div>
+          </article>
+
+          <article class="card api-card" id="settings">
+            <div class="card-head">
+              <h2>设置中心 <small>驾驶室配置</small></h2>
+              <span id="api-sync-state">-</span>
+            </div>
+            <div id="local-settings-list" class="settings-list"></div>
+            <div id="source-status-list" class="source-status-list"></div>
+          </article>
+        </section>
+      </section>
+    </main>
+    <script src="./app.js?v=20260627-ph10000-structure"></script>
+  </body>
+</html>

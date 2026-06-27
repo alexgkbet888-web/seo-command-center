@@ -1,0 +1,138 @@
+{
+    "generatedAt":  "2026-06-27 16:09 Asia/Tokyo",
+    "sourcesFile":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\b9-traffic-cockpit\\integration\\manifest-sources.csv",
+    "incomingCsvFiles":  [
+                             "incoming/k1-pakistan-sites.csv",
+                             "incoming/k1-sites-2026-06-27.csv",
+                             "incoming/s9-pakistan-sites.csv"
+                         ],
+    "manifestCount":  45,
+    "profileCount":  25,
+    "duplicateCount":  20,
+    "duplicates":  [
+                       {
+                           "domain":  "k1pakistan.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pakistanapp.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pkapp.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1onlinepk.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1earningpk.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1gamebonus.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1gamehubpk.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pkhub.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1bonuspk.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pkonline.com",
+                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9downloadpk.com",
+                           "keptSource":  "https://s9downloadpk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9pakistanapk.com",
+                           "keptSource":  "https://s9pakistanapk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9earningpk.com",
+                           "keptSource":  "https://s9earningpk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9pkapp.com",
+                           "keptSource":  "https://s9pkapp.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9gamepakistan.com",
+                           "keptSource":  "https://s9gamepakistan.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9pakistan.com",
+                           "keptSource":  "https://s9pakistan.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9onlinepk.com",
+                           "keptSource":  "https://s9onlinepk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9gamebonus.com",
+                           "keptSource":  "https://s9gamebonus.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9pakistanapp.com",
+                           "keptSource":  "https://s9pakistanapp.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "s9gameonlinepk.com",
+                           "keptSource":  "https://s9gameonlinepk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/s9-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       }
+                   ],
+    "errorCount":  0,
+    "errors":  [
+
+               ]
+}

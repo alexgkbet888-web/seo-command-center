@@ -1,0 +1,2102 @@
+{
+    "generatedAt":  "2026-06-27 16:09 Asia/Tokyo",
+    "manifests":  [
+                      {
+                          "sourceUrl":  "https://b9pakistan.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/b9pakistan.com",
+                                           "deployUrl":  "https://b9pakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "B9game Pakistan official route, registration guide and account safety hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "B9 Pakistan",
+                                                                   "B9game Pakistan",
+                                                                   "B9Game Pakistan",
+                                                                   "B9 register Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "B9game official route Pakistan",
+                                                                     "B9game register guide",
+                                                                     "B9game account safety Pakistan",
+                                                                     "B9game support Pakistan"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://b9gameapp.com/",
+                                                               "https://b9game.net/",
+                                                               "https://b9game.io/",
+                                                               "https://b9game.me/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://b9pakistan.com/sitemap.xml",
+                                                             "robotsUrl":  "https://b9pakistan.com/robots.txt",
+                                                             "feedUrl":  "https://b9pakistan.com/feed.xml",
+                                                             "canonicalRoot":  "https://b9pakistan.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:b9pakistan.com",
+                                                       "connected":  true
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "Brand trust and official registration route",
+                                                               "clusters":  [
+                                                                                "official",
+                                                                                "register",
+                                                                                "account-safety",
+                                                                                "support"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "b9pakistan.com",
+                                           "brand":  "B9 Pakistan",
+                                           "batch":  "P1",
+                                           "owner":  "core-team"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://b9gameonlinepk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/b9gameonlinepk.com",
+                                           "deployUrl":  "https://b9gameonlinepk.com/",
+                                           "siteType":  "h5",
+                                           "positioning":  "B9game H5 online games, sports, cricket and Aviator guide for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "B9game",
+                                                                   "B9Game",
+                                                                   "b9 online",
+                                                                   "B9game online Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "B9 aviator",
+                                                                     "B9 sports",
+                                                                     "B9 cricket",
+                                                                     "B9 H5 games"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://b9gameapp.com/",
+                                                               "https://b9game.net/",
+                                                               "https://b9game.io/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://b9gameonlinepk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://b9gameonlinepk.com/robots.txt",
+                                                             "feedUrl":  "https://b9gameonlinepk.com/feed.xml",
+                                                             "canonicalRoot":  "https://b9gameonlinepk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:b9gameonlinepk.com",
+                                                       "connected":  true
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "H5 mobile game and sports intent",
+                                                               "clusters":  [
+                                                                                "h5",
+                                                                                "sports",
+                                                                                "cricket",
+                                                                                "aviator",
+                                                                                "mobile-support"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "b9gameonlinepk.com",
+                                           "brand":  "B9 Pakistan",
+                                           "batch":  "P1",
+                                           "owner":  "core-team"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://b9downloadpk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/b9downloadpk.com",
+                                           "deployUrl":  "https://b9downloadpk.com/",
+                                           "siteType":  "download",
+                                           "positioning":  "B9 app download, APK install and Android update guide for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "B9 download",
+                                                                   "B9 app download",
+                                                                   "B9 APK download",
+                                                                   "B9game download Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "B9game APK",
+                                                                     "B9game latest version",
+                                                                     "B9game Android APK",
+                                                                     "B9game app not installing"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://b9game.ltd/download/",
+                                                               "https://b9gameapp.com/",
+                                                               "https://b9game.net/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://b9downloadpk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://b9downloadpk.com/robots.txt",
+                                                             "feedUrl":  "https://b9downloadpk.com/feed.xml",
+                                                             "canonicalRoot":  "https://b9downloadpk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:b9downloadpk.com",
+                                                       "connected":  true
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "Download and APK install intent",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "android",
+                                                                                "latest-version",
+                                                                                "install-errors"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "b9downloadpk.com",
+                                           "brand":  "B9 Pakistan",
+                                           "batch":  "P1",
+                                           "owner":  "core-team"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://b9pakistanapp.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/b9pakistanapp.com",
+                                           "deployUrl":  "https://b9pakistanapp.com/",
+                                           "siteType":  "payment",
+                                           "positioning":  "B9 Pakistan app payment, wallet, EasyPaisa, JazzCash and crypto support hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "B9 payment Pakistan",
+                                                                   "B9 EasyPaisa",
+                                                                   "B9 JazzCash",
+                                                                   "B9 crypto Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "B9 wallet Pakistan",
+                                                                     "B9 deposit Pakistan",
+                                                                     "B9 withdraw Pakistan",
+                                                                     "B9game payment checklist"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://b9gameapp.com/",
+                                                               "https://b9game.net/",
+                                                               "https://b9game.io/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://b9pakistanapp.com/sitemap.xml",
+                                                             "robotsUrl":  "https://b9pakistanapp.com/robots.txt",
+                                                             "feedUrl":  "https://b9pakistanapp.com/feed.xml",
+                                                             "canonicalRoot":  "https://b9pakistanapp.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:b9pakistanapp.com",
+                                                       "connected":  true
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "Pakistan payment and wallet intent",
+                                                               "clusters":  [
+                                                                                "payment",
+                                                                                "easypaisa",
+                                                                                "jazzcash",
+                                                                                "crypto",
+                                                                                "wallet"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "b9pakistanapp.com",
+                                           "brand":  "B9 Pakistan",
+                                           "batch":  "P2",
+                                           "owner":  "core-team"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://b9pakistanapk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/b9pakistanapk.com",
+                                           "deployUrl":  "https://b9pakistanapk.com/",
+                                           "siteType":  "apk-support",
+                                           "positioning":  "B9 APK troubleshooting, Android compatibility and install support for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "B9 APK",
+                                                                   "B9game APK",
+                                                                   "B9 Pakistan APK",
+                                                                   "B9 APK latest version"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "B9 APK parse error",
+                                                                     "B9 APK install blocked",
+                                                                     "B9 Android APK",
+                                                                     "B9game low storage APK install"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://b9game.ltd/download/",
+                                                               "https://b9gameapp.com/",
+                                                               "https://b9game.io/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://b9pakistanapk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://b9pakistanapk.com/robots.txt",
+                                                             "feedUrl":  "https://b9pakistanapk.com/feed.xml",
+                                                             "canonicalRoot":  "https://b9pakistanapk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:b9pakistanapk.com",
+                                                       "connected":  true
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "APK technical support and Android troubleshooting",
+                                                               "clusters":  [
+                                                                                "apk",
+                                                                                "android",
+                                                                                "parse-error",
+                                                                                "install-blocked",
+                                                                                "compatibility"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "b9pakistanapk.com",
+                                           "brand":  "B9 Pakistan",
+                                           "batch":  "P2",
+                                           "owner":  "core-team"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9downloadpk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9downloadpk.com",
+                                           "deployUrl":  "https://s9downloadpk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 Game download and Android install authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game download",
+                                                                   "s9 game download Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 download apk",
+                                                                     "s9 install unknown app source",
+                                                                     "s9 download not working after register"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9downloadpk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9downloadpk.com/robots.txt",
+                                                             "feedUrl":  "https://s9downloadpk.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9downloadpk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9downloadpk.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 Game download and Android install authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9downloadpk.com",
+                                           "brand":  "S9 Access Center",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9pakistanapk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistanapk.com",
+                                           "deployUrl":  "https://s9pakistanapk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 APK version, source, file-size and update safety authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game apk",
+                                                                   "s9 APK version Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "latest s9 apk",
+                                                                     "s9 apk update failed",
+                                                                     "s9 apk signature check"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9pakistanapk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9pakistanapk.com/robots.txt",
+                                                             "feedUrl":  "https://s9pakistanapk.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9pakistanapk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9pakistanapk.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 APK version, source, file-size and update safety authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9pakistanapk.com",
+                                           "brand":  "S9 APK Source Desk",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9earningpk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9earningpk.com",
+                                           "deployUrl":  "https://s9earningpk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 wallet, withdrawal, Easypaisa and JazzCash support authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 withdrawal Pakistan",
+                                                                   "s9 wallet Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 easypaisa withdrawal pending",
+                                                                     "s9 withdrawal proof screenshot",
+                                                                     "s9 jazzcash deposit"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9earningpk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9earningpk.com/robots.txt",
+                                                             "feedUrl":  "https://s9earningpk.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9earningpk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9earningpk.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 wallet, withdrawal, Easypaisa and JazzCash support authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9earningpk.com",
+                                           "brand":  "S9 Wallet Desk",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9pkapp.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pkapp.com",
+                                           "deployUrl":  "https://s9pkapp.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 login, register, OTP and password recovery authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game login",
+                                                                   "s9 register Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 password reset otp not received",
+                                                                     "s9 OTP not received",
+                                                                     "s9 number already used"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9pkapp.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9pkapp.com/robots.txt",
+                                                             "feedUrl":  "https://s9pkapp.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9pkapp.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9pkapp.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 login, register, OTP and password recovery authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9pkapp.com",
+                                           "brand":  "S9 Login Recovery Desk",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9gamepakistan.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9gamepakistan.com",
+                                           "deployUrl":  "https://s9gamepakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 game rules, beginner lessons and gameplay guide authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game Pakistan",
+                                                                   "s9 game rules"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 mines game rules Pakistan",
+                                                                     "s9 roulette rules Pakistan",
+                                                                     "s9 blackjack rules Pakistan"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9gamepakistan.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9gamepakistan.com/robots.txt",
+                                                             "feedUrl":  "https://s9gamepakistan.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9gamepakistan.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9gamepakistan.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 game rules, beginner lessons and gameplay guide authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9gamepakistan.com",
+                                           "brand":  "S9 Game Pakistan Academy",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9pakistan.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistan.com",
+                                           "deployUrl":  "https://s9pakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 safety, trust, official website checks and risk review authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "is s9 game real",
+                                                                   "s9 official website Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 official website check Pakistan",
+                                                                     "s9 scam apk warning",
+                                                                     "s9 domain safety checklist"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9pakistan.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9pakistan.com/robots.txt",
+                                                             "feedUrl":  "https://s9pakistan.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9pakistan.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9pakistan.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 safety, trust, official website checks and risk review authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9pakistan.com",
+                                           "brand":  "S9 Trust Review Journal",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9onlinepk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9onlinepk.com",
+                                           "deployUrl":  "https://s9onlinepk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 Roman Urdu local help authority for Pakistan mobile users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game kaise download kare",
+                                                                   "s9 online Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 password bhool gaya",
+                                                                     "s9 login OTP limit",
+                                                                     "s9 number already used"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9onlinepk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9onlinepk.com/robots.txt",
+                                                             "feedUrl":  "https://s9onlinepk.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9onlinepk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9onlinepk.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 Roman Urdu local help authority for Pakistan mobile users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9onlinepk.com",
+                                           "brand":  "S9 Roman Urdu Help",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9gamebonus.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9gamebonus.com",
+                                           "deployUrl":  "https://s9gamebonus.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 bonus, referral, promo code and agent code terms authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game bonus",
+                                                                   "s9 bonus Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 invite code not working",
+                                                                     "s9 promo code expired",
+                                                                     "s9 bonus wagering terms"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9gamebonus.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9gamebonus.com/robots.txt",
+                                                             "feedUrl":  "https://s9gamebonus.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9gamebonus.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9gamebonus.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 bonus, referral, promo code and agent code terms authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9gamebonus.com",
+                                           "brand":  "S9 Bonus Terms Board",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9pakistanapp.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistanapp.com",
+                                           "deployUrl":  "https://s9pakistanapp.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 app not working, crash, network and Android troubleshooting authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 app not working",
+                                                                   "s9 app Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9 app black screen Android",
+                                                                     "s9 app permission denied",
+                                                                     "s9 app crash low storage"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9pakistanapp.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9pakistanapp.com/robots.txt",
+                                                             "feedUrl":  "https://s9pakistanapp.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9pakistanapp.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9pakistanapp.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 app not working, crash, network and Android troubleshooting authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9pakistanapp.com",
+                                           "brand":  "S9 App Fix Desk",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://s9gameonlinepk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9gameonlinepk.com",
+                                           "deployUrl":  "https://s9gameonlinepk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 online alternatives, competitor comparison and feature review authority for Pakistan users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "s9 game online Pakistan",
+                                                                   "s9 game alternative"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "s9game com pk comparison",
+                                                                     "s9game cc vs s9 game",
+                                                                     "s9 vs super s9 game"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://s9gameonlinepk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://s9gameonlinepk.com/robots.txt",
+                                                             "feedUrl":  "https://s9gameonlinepk.com/feed.xml",
+                                                             "canonicalRoot":  "https://s9gameonlinepk.com/",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:s9gameonlinepk.com",
+                                                       "connected":  false,
+                                                       "note":  "Set true only after GSC permission is verified and real data is imported."
+                                                   },
+                                           "contentPlan":  {
+                                                               "homepageAngle":  "S9 online alternatives, competitor comparison and feature review authority for Pakistan users",
+                                                               "clusters":  [
+                                                                                "download",
+                                                                                "apk",
+                                                                                "register",
+                                                                                "wallet",
+                                                                                "support",
+                                                                                "faq",
+                                                                                "updates"
+                                                                            ],
+                                                               "weeklyUpdateTarget":  3
+                                                           },
+                                           "lastUpdated":  "2026-06-27",
+                                           "domain":  "s9gameonlinepk.com",
+                                           "brand":  "S9 Online Compare Desk",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pakistan.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1pakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 Pakistan authority and brand search hub",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 Pakistan",
+                                                                   "K1 game Pakistan",
+                                                                   "K1 online Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 register Pakistan",
+                                                                     "K1 app Pakistan",
+                                                                     "K1 Pakistan guide"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1pakistan.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pakistan.com/robots.txt",
+                                           "feedUrl":  "https://k1pakistan.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pakistan.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pakistanapp.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1pakistanapp.com/",
+                                           "siteType":  "app",
+                                           "positioning":  "K1 Pakistan app access and mobile support hub",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 Pakistan app",
+                                                                   "K1 app Pakistan",
+                                                                   "K1 mobile Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 app download Pakistan",
+                                                                     "K1 H5 Pakistan",
+                                                                     "K1 mobile guide"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1pakistanapp.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pakistanapp.com/robots.txt",
+                                           "feedUrl":  "https://k1pakistanapp.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pakistanapp.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pkapp.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1pkapp.com/",
+                                           "siteType":  "app",
+                                           "positioning":  "K1 PK app download and mobile troubleshooting hub",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 PK app",
+                                                                   "K1 app download",
+                                                                   "K1 Pakistan APK"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 Android app",
+                                                                     "K1 app not working",
+                                                                     "K1 mobile install"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1pkapp.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pkapp.com/robots.txt",
+                                           "feedUrl":  "https://k1pkapp.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pkapp.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1onlinepk.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1onlinepk.com/",
+                                           "siteType":  "online",
+                                           "positioning":  "K1 online Pakistan H5 and access guide",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 online PK",
+                                                                   "K1 online Pakistan",
+                                                                   "K1 game online"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 H5 online",
+                                                                     "K1 Pakistan online guide",
+                                                                     "K1 online app"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1onlinepk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1onlinepk.com/robots.txt",
+                                           "feedUrl":  "https://k1onlinepk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1onlinepk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1earningpk.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P2",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1earningpk.com/",
+                                           "siteType":  "earning",
+                                           "positioning":  "K1 earning Pakistan guide and user education hub",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 earning PK",
+                                                                   "K1 earning Pakistan",
+                                                                   "K1 Pakistan earning"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 earning guide",
+                                                                     "K1 rewards Pakistan",
+                                                                     "K1 income guide"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1earningpk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1earningpk.com/robots.txt",
+                                           "feedUrl":  "https://k1earningpk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1earningpk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1gamebonus.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P2",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1gamebonus.com/",
+                                           "siteType":  "bonus",
+                                           "positioning":  "K1 game bonus guide and offer explanation hub",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 game bonus",
+                                                                   "K1 bonus Pakistan",
+                                                                   "K1 bonus guide"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 promo guide",
+                                                                     "K1 game reward",
+                                                                     "K1 bonus terms"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1gamebonus.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1gamebonus.com/robots.txt",
+                                           "feedUrl":  "https://k1gamebonus.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1gamebonus.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1gamehubpk.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P2",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1gamehubpk.com/",
+                                           "siteType":  "hub",
+                                           "positioning":  "K1 game hub Pakistan topic cluster and navigation site",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 game hub PK",
+                                                                   "K1 game Pakistan",
+                                                                   "K1 hub Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game guide",
+                                                                     "K1 mobile games",
+                                                                     "K1 Pakistan support"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1gamehubpk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1gamehubpk.com/robots.txt",
+                                           "feedUrl":  "https://k1gamehubpk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1gamehubpk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pkhub.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P2",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1pkhub.com/",
+                                           "siteType":  "hub",
+                                           "positioning":  "K1 Pakistan hub for brand, app and support intent",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 PK hub",
+                                                                   "K1 Pakistan hub",
+                                                                   "K1 hub"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 support Pakistan",
+                                                                     "K1 app hub",
+                                                                     "K1 guide hub"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1pkhub.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pkhub.com/robots.txt",
+                                           "feedUrl":  "https://k1pkhub.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pkhub.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1bonuspk.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P3",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1bonuspk.com/",
+                                           "siteType":  "bonus",
+                                           "positioning":  "K1 bonus Pakistan long-tail and FAQ site",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 bonus PK",
+                                                                   "K1 bonus Pakistan",
+                                                                   "K1 bonus"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 bonus FAQ",
+                                                                     "K1 bonus terms",
+                                                                     "K1 promo Pakistan"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1bonuspk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1bonuspk.com/robots.txt",
+                                           "feedUrl":  "https://k1bonuspk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1bonuspk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pkonline.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P3",
+                                           "owner":  "partner-team",
+                                           "repoUrl":  "",
+                                           "deployUrl":  "https://k1pkonline.com/",
+                                           "siteType":  "online",
+                                           "positioning":  "K1 PK online access and H5 mobile guide",
+                                           "status":  "needs-info",
+                                           "registerTarget":  "",
+                                           "primaryKeywords":  [
+                                                                   "K1 PK online",
+                                                                   "K1 online",
+                                                                   "K1 Pakistan online"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 H5 guide",
+                                                                     "K1 online support",
+                                                                     "K1 mobile online"
+                                                                 ],
+                                           "competitors":  {
+
+                                                           },
+                                           "sitemapUrl":  "https://k1pkonline.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pkonline.com/robots.txt",
+                                           "feedUrl":  "https://k1pkonline.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pkonline.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pakistan.com",
+                                           "brand":  "K1 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1pakistan.com",
+                                           "deployUrl":  "https://k1pakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 Game download authority site for Pakistan Android users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game download",
+                                                                   "K1 Pakistan",
+                                                                   "K 1 download"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game APK",
+                                                                     "K1 game download Pakistan",
+                                                                     "K1 game download Android",
+                                                                     "K1 APK install"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1pakistan.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pakistan.com/robots.txt",
+                                           "feedUrl":  "https://k1pakistan.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pakistan.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pakistanapp.com",
+                                           "brand":  "K1 Pakistan App",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1pakistanapp.com",
+                                           "deployUrl":  "https://k1pakistanapp.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 login, OTP, password and account-access help site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 login",
+                                                                   "K1Login",
+                                                                   "K1 app login"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 login password",
+                                                                     "K1 game login",
+                                                                     "K1 OTP not received",
+                                                                     "K1 register Pakistan"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1pakistanapp.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pakistanapp.com/robots.txt",
+                                           "feedUrl":  "https://k1pakistanapp.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pakistanapp.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pkapp.com",
+                                           "brand":  "K1 PK App",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1pkapp.com",
+                                           "deployUrl":  "https://k1pkapp.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 latest version, APK update and changelog tracker",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 update",
+                                                                   "K1 game latest version"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game news and updates",
+                                                                     "K1 update latest version",
+                                                                     "K1 APK version check",
+                                                                     "K1 changelog"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1pkapp.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pkapp.com/robots.txt",
+                                           "feedUrl":  "https://k1pkapp.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pkapp.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1onlinepk.com",
+                                           "brand":  "K1 Online PK",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1onlinepk.com",
+                                           "deployUrl":  "https://k1onlinepk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 Pakistan wallet, withdrawal, deposit and support guide",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K-1 support",
+                                                                   "K1 support",
+                                                                   "K1 wallet Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 withdrawal pending",
+                                                                     "K1 JazzCash deposit",
+                                                                     "K1 Easypaisa withdrawal",
+                                                                     "K1 payment support"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1onlinepk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1onlinepk.com/robots.txt",
+                                           "feedUrl":  "https://k1onlinepk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1onlinepk.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1earningpk.com",
+                                           "brand":  "K1 Earning PK",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1earningpk.com",
+                                           "deployUrl":  "https://k1earningpk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 game library, earning app and game-mode guide site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 fishing",
+                                                                   "K1 game earning app"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 fishing game guide",
+                                                                     "K1 teen patti guide",
+                                                                     "K1 mines guide",
+                                                                     "K1 crash games"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1earningpk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1earningpk.com/robots.txt",
+                                           "feedUrl":  "https://k1earningpk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1earningpk.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1gamebonus.com",
+                                           "brand":  "K1 Game Bonus",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1gamebonus.com",
+                                           "deployUrl":  "https://k1gamebonus.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 safety review, real-or-fake and scam-risk authority site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "is K1 game real",
+                                                                   "is K1 game safe",
+                                                                   "is K1 game real or fake"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game review Pakistan",
+                                                                     "K1 game scam red flags",
+                                                                     "K1 bonus safety",
+                                                                     "K1 safe source checklist"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1gamebonus.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1gamebonus.com/robots.txt",
+                                           "feedUrl":  "https://k1gamebonus.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1gamebonus.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1gamehubpk.com",
+                                           "brand":  "K1 Game Hub PK",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1gamehubpk.com",
+                                           "deployUrl":  "https://k1gamehubpk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "Roman Urdu K1 help center for Pakistan mobile users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game kaise use kare",
+                                                                   "K1 game Pakistan Roman Urdu"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game download kaise kare",
+                                                                     "K1 game login kaise kare",
+                                                                     "K1 game se paisa kaise nikale",
+                                                                     "K1 OTP masla"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1gamehubpk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1gamehubpk.com/robots.txt",
+                                           "feedUrl":  "https://k1gamehubpk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1gamehubpk.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pkhub.com",
+                                           "brand":  "K1 PK Hub",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1pkhub.com",
+                                           "deployUrl":  "https://k1pkhub.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 agent, referral, invitation and bonus-code notes site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "agents K1",
+                                                                   "agent K1",
+                                                                   "K1 game bonus code"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 agent code",
+                                                                     "K1 referral code",
+                                                                     "K1 invitation code",
+                                                                     "agents K1 Pakistan"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1pkhub.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pkhub.com/robots.txt",
+                                           "feedUrl":  "https://k1pkhub.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pkhub.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1bonuspk.com",
+                                           "brand":  "K1 Bonus PK",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1bonuspk.com",
+                                           "deployUrl":  "https://k1bonuspk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 troubleshooting, app crash, not opening and login-error fix center",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game not working",
+                                                                   "K1 game app crash",
+                                                                   "K1 game not opening"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 login error",
+                                                                     "K1 OTP problem",
+                                                                     "K1 support evidence",
+                                                                     "K1 app fix Pakistan"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1bonuspk.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1bonuspk.com/robots.txt",
+                                           "feedUrl":  "https://k1bonuspk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1bonuspk.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/k1-sites-2026-06-27.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "k1pkonline.com",
+                                           "brand":  "K1 PK Online",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/k1pkonline.com",
+                                           "deployUrl":  "https://k1pkonline.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 alternatives, official-link comparison and feature-matrix site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game alternative",
+                                                                   "apps like K1 game",
+                                                                   "K1 game comparison"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 official link comparison",
+                                                                     "K1 game feature matrix",
+                                                                     "K1 game vs other apps",
+                                                                     "K1 safe choice checklist"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://k1game.org/",
+                                                               "https://k1.game/",
+                                                               "https://game-hacker-en.uptodown.com/android"
+                                                           ],
+                                           "sitemapUrl":  "https://k1pkonline.com/sitemap.xml",
+                                           "robotsUrl":  "https://k1pkonline.com/robots.txt",
+                                           "feedUrl":  "https://k1pkonline.com/feed.xml",
+                                           "gscProperty":  "sc-domain:k1pkonline.com",
+                                           "gscConnected":  "True"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9downloadpk.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9downloadpk.com",
+                                           "deployUrl":  "https://s9downloadpk.com/",
+                                           "siteType":  "download",
+                                           "positioning":  "S9 download Pakistan and app install guide",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 download PK",
+                                                                   "S9 app download",
+                                                                   "S9 APK download"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 download Pakistan",
+                                                                     "S9 latest version",
+                                                                     "S9 Android app"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9downloadpk.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9downloadpk.com/robots.txt",
+                                           "feedUrl":  "https://s9downloadpk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9downloadpk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9pakistanapk.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistanapk.com",
+                                           "deployUrl":  "https://s9pakistanapk.com/",
+                                           "siteType":  "apk",
+                                           "positioning":  "S9 Pakistan APK troubleshooting and Android install support",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 Pakistan APK",
+                                                                   "S9 APK",
+                                                                   "S9 APK Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 APK install",
+                                                                     "S9 Android APK",
+                                                                     "S9 APK not working"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9pakistanapk.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9pakistanapk.com/robots.txt",
+                                           "feedUrl":  "https://s9pakistanapk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9pakistanapk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9earningpk.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9earningpk.com",
+                                           "deployUrl":  "https://s9earningpk.com/",
+                                           "siteType":  "earning",
+                                           "positioning":  "S9 earning Pakistan guide and long-tail content hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 earning PK",
+                                                                   "S9 earning Pakistan",
+                                                                   "S9 Pakistan earning"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 earning guide",
+                                                                     "S9 rewards Pakistan",
+                                                                     "S9 income guide"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9earningpk.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9earningpk.com/robots.txt",
+                                           "feedUrl":  "https://s9earningpk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9earningpk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9pkapp.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P1",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pkapp.com",
+                                           "deployUrl":  "https://s9pkapp.com/",
+                                           "siteType":  "app",
+                                           "positioning":  "S9 PK app mobile access and support hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 PK app",
+                                                                   "S9 app Pakistan",
+                                                                   "S9 mobile app"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 app download Pakistan",
+                                                                     "S9 H5 Pakistan",
+                                                                     "S9 app support"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9pkapp.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9pkapp.com/robots.txt",
+                                           "feedUrl":  "https://s9pkapp.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9pkapp.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9gamepakistan.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P2",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9gamepakistan.com",
+                                           "deployUrl":  "https://s9gamepakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 game Pakistan authority and brand topic hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 game Pakistan",
+                                                                   "S9 Pakistan game",
+                                                                   "S9Game Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 game guide",
+                                                                     "S9 Pakistan app",
+                                                                     "S9 online Pakistan"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9gamepakistan.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9gamepakistan.com/robots.txt",
+                                           "feedUrl":  "https://s9gamepakistan.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9gamepakistan.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9pakistan.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P2",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistan.com",
+                                           "deployUrl":  "https://s9pakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "S9 Pakistan main authority and brand search hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 Pakistan",
+                                                                   "S9 game Pakistan",
+                                                                   "S9 online Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 register Pakistan",
+                                                                     "S9 app Pakistan",
+                                                                     "S9 Pakistan guide"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9pakistan.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9pakistan.com/robots.txt",
+                                           "feedUrl":  "https://s9pakistan.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9pakistan.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9onlinepk.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P2",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9onlinepk.com",
+                                           "deployUrl":  "https://s9onlinepk.com/",
+                                           "siteType":  "online",
+                                           "positioning":  "S9 online Pakistan H5 and mobile access guide",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 online PK",
+                                                                   "S9 online Pakistan",
+                                                                   "S9 game online"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 H5 online",
+                                                                     "S9 Pakistan online guide",
+                                                                     "S9 online app"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9onlinepk.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9onlinepk.com/robots.txt",
+                                           "feedUrl":  "https://s9onlinepk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9onlinepk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9gamebonus.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P2",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9gamebonus.com",
+                                           "deployUrl":  "https://s9gamebonus.com/",
+                                           "siteType":  "bonus",
+                                           "positioning":  "S9 game bonus guide and FAQ hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 game bonus",
+                                                                   "S9 bonus Pakistan",
+                                                                   "S9 bonus guide"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 promo guide",
+                                                                     "S9 game reward",
+                                                                     "S9 bonus terms"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9gamebonus.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9gamebonus.com/robots.txt",
+                                           "feedUrl":  "https://s9gamebonus.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9gamebonus.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9pakistanapp.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P3",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9pakistanapp.com",
+                                           "deployUrl":  "https://s9pakistanapp.com/",
+                                           "siteType":  "app",
+                                           "positioning":  "S9 Pakistan app access and mobile support hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 Pakistan app",
+                                                                   "S9 app Pakistan",
+                                                                   "S9 mobile Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 app download Pakistan",
+                                                                     "S9 H5 Pakistan",
+                                                                     "S9 mobile guide"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9pakistanapp.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9pakistanapp.com/robots.txt",
+                                           "feedUrl":  "https://s9pakistanapp.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9pakistanapp.com",
+                                           "gscConnected":  "false"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "incoming/s9-pakistan-sites.csv",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "domain":  "s9gameonlinepk.com",
+                                           "brand":  "S9 Pakistan",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "batch":  "S9-P3",
+                                           "owner":  "alexgkbet888-web",
+                                           "repoUrl":  "https://github.com/alexgkbet888-web/s9gameonlinepk.com",
+                                           "deployUrl":  "https://s9gameonlinepk.com/",
+                                           "siteType":  "online",
+                                           "positioning":  "S9 game online Pakistan guide and H5 content hub",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "S9 game online PK",
+                                                                   "S9 game online Pakistan",
+                                                                   "S9 online game"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "S9 H5 game",
+                                                                     "S9 mobile game Pakistan",
+                                                                     "S9 online support"
+                                                                 ],
+                                           "competitors":  [
+                                                               "https://s9game.com.pk/",
+                                                               "https://www.supers9game.com.pk/",
+                                                               "https://s9game.cc/",
+                                                               "https://s9game.co/",
+                                                               "https://s9game.ac.pk/"
+                                                           ],
+                                           "sitemapUrl":  "https://s9gameonlinepk.com/sitemap.xml",
+                                           "robotsUrl":  "https://s9gameonlinepk.com/robots.txt",
+                                           "feedUrl":  "https://s9gameonlinepk.com/feed.xml",
+                                           "gscProperty":  "sc-domain:s9gameonlinepk.com",
+                                           "gscConnected":  "false"
+                                       }
+                      }
+                  ]
+}

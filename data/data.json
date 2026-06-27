@@ -1,0 +1,1376 @@
+{
+    "meta":  {
+                 "title":  "SEO Command Center",
+                 "generatedAt":  "2026-06-27T07:09:33.9524199Z",
+                 "timezone":  "Asia/Tokyo",
+                 "mode":  "static-first-dashboard",
+                 "notes":  [
+                               "Data shape follows ph10000-traffic-cockpit data/data.json.",
+                               "GSC clicks, impressions, CTR and rankings are only shown when reliable data exists.",
+                               "Sites are aggregated from seo-manifest.json, incoming CSV, local worktrees and GSC reports."
+                           ],
+                 "sources":  {
+                                 "manifests":  "integration/collected/site-profiles.json",
+                                 "collectReport":  "integration/collected/collect-report.json",
+                                 "cockpit":  "data/cockpit-data.json",
+                                 "gsc":  "outputs/b9-pakistan-seo-ops/gsc-daily-self-check-2026-06-26.csv",
+                                 "refresh":  "tools/refresh-b9-traffic-cockpit.ps1"
+                             }
+             },
+    "kpis":  {
+                 "totalSites":  25,
+                 "p1Sites":  17,
+                 "p2Sites":  8,
+                 "healthy":  25,
+                 "healthRate":  1,
+                 "seoDeployed":  25,
+                 "seoRate":  1,
+                 "gscComplete":  5,
+                 "gscRate":  0.2,
+                 "sitemapComplete":  25,
+                 "sitemapRate":  1,
+                 "clicks":  9,
+                 "impressions":  104,
+                 "ctr":  0.0865,
+                 "avgPosition":  0
+             },
+    "worker":  {
+                   "plan":  "GitHub Pages / static dashboard",
+                   "source":  "local-refresh-script",
+                   "realtime":  false,
+                   "snapshotCapturedAt":  "2026-06-27T07:09:34.0342454Z",
+                   "apiRequired":  "GSC API, GA4 API and optional Cloudflare Analytics proxy for full automation",
+                   "includedRequestsMonthly":  0,
+                   "requestsThisMonth":  0,
+                   "remainingRequests":  0,
+                   "usageRate":  0,
+                   "baseMonthlyUsd":  0,
+                   "overageRatePerMillionUsd":  0,
+                   "estimatedMonthlyUsd":  0,
+                   "routePatterns":  25,
+                   "totalHosts":  25,
+                   "currentWorkerVersion":  "static",
+                   "lastKnownStatus":  "Static dashboard generated locally"
+               },
+    "dataFreshness":  {
+                          "workerRequests":  {
+                                                 "label":  "pending",
+                                                 "realtime":  false,
+                                                 "source":  "No Cloudflare/Worker metrics API yet",
+                                                 "capturedAt":  "",
+                                                 "next":  "Use a backend proxy; never expose API tokens in static frontend."
+                                             },
+                          "gscSearchAnalytics":  {
+                                                     "label":  "snapshot_connected",
+                                                     "realtime":  false,
+                                                     "source":  "gsc-daily-self-check-2026-06-26.csv",
+                                                     "capturedAt":  "2026-06-27T07:09:34.0342454Z",
+                                                     "syncedSites":  5,
+                                                     "errors":  20,
+                                                     "clicks":  9,
+                                                     "impressions":  104,
+                                                     "next":  "Refresh the GSC snapshot daily."
+                                                 },
+                          "siteBehavior":  {
+                                               "label":  "collector_pending",
+                                               "realtime":  false,
+                                               "source":  "seo-manifest and static files",
+                                               "next":  "Inject a lightweight site behavior collector later."
+                                           }
+                      },
+    "gscSearchAnalytics":  {
+                               "generatedAt":  "2026-06-27T07:09:34.0342454Z",
+                               "range":  {
+                                             "startDate":  "2026-06-27",
+                                             "endDate":  "2026-06-27",
+                                             "days":  1
+                                         },
+                               "summary":  {
+                                               "requested":  25,
+                                               "success":  5,
+                                               "errors":  20
+                                           },
+                               "totals":  {
+                                              "clicks":  9,
+                                              "impressions":  104,
+                                              "ctr":  0.0865,
+                                              "avgPosition":  0
+                                          },
+                               "sites":  [
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             },
+                                             {
+                                                 "domain":  null,
+                                                 "brand":  null,
+                                                 "scope":  null,
+                                                 "clicks":  null,
+                                                 "impressions":  null,
+                                                 "ctr":  null,
+                                                 "avgPosition":  null
+                                             }
+                                         ],
+                               "errors":  [
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              },
+                                              {
+                                                  "domain":  null,
+                                                  "brand":  null,
+                                                  "scope":  null
+                                              }
+                                          ]
+                           },
+    "seoProgress":  {
+                        "p1":  {
+                                   "sites":  17,
+                                   "seoDeployed":  17
+                               },
+                        "p2":  {
+                                   "sites":  8,
+                                   "seoDeployed":  8
+                               }
+                    },
+    "gscSubmission":  {
+                          "gscComplete":  5,
+                          "sitemapComplete":  25,
+                          "searchDataSites":  5,
+                          "p1":  {
+                                     "sites":  17,
+                                     "gscComplete":  3,
+                                     "sitemapComplete":  17
+                                 },
+                          "p2":  {
+                                     "sites":  8,
+                                     "gscComplete":  2,
+                                     "sitemapComplete":  8
+                                 },
+                          "sourceStats":  {
+                                              "local":  {
+                                                            "domains":  25,
+                                                            "complete":  5,
+                                                            "sitemapComplete":  25,
+                                                            "source":  "local-refresh",
+                                                            "generatedAt":  "2026-06-27T07:09:34.3777432Z"
+                                                        }
+                                          }
+                      },
+    "topBrands":  [
+                      {
+                          "name":  "K1 Pakistan",
+                          "sites":  10,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "B9 Pakistan",
+                          "sites":  5,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  104,
+                          "clicks":  9
+                      },
+                      {
+                          "name":  "S9 Bonus Terms Board",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Roman Urdu Help",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 App Fix Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Game Pakistan Academy",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Online Compare Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Wallet Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 APK Source Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Login Recovery Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Trust Review Journal",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Access Center",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      }
+                  ],
+    "apiIntegrations":  [
+                            {
+                                "key":  "gsc-search",
+                                "name":  "GSC Search Analytics",
+                                "status":  "connected",
+                                "value":  "5/25 sites"
+                            },
+                            {
+                                "key":  "sitemap",
+                                "name":  "Sitemap/Robots/Feed",
+                                "status":  "connected",
+                                "value":  "25/25 sitemap"
+                            },
+                            {
+                                "key":  "manifest",
+                                "name":  "SEO Manifest Collector",
+                                "status":  "connected",
+                                "value":  "10/25 manifest"
+                            },
+                            {
+                                "key":  "site-behavior",
+                                "name":  "Site Behavior Collector",
+                                "status":  "pending",
+                                "value":  "pending"
+                            }
+                        ],
+    "actionQueue":  [
+                        {
+                            "title":  "Complete non-B9 site seo-manifest.json",
+                            "owner":  "partner-team",
+                            "level":  "high"
+                        },
+                        {
+                            "title":  "Review cross-brand register links",
+                            "owner":  "ops",
+                            "level":  "high"
+                        },
+                        {
+                            "title":  "Continue GSC submission and ranking reads",
+                            "owner":  "seo",
+                            "level":  "high"
+                        }
+                    ],
+    "sites":  [
+                  {
+                      "id":  "PK-P1-b9pakistan.com",
+                      "scope":  "P1",
+                      "domain":  "b9pakistan.com",
+                      "brand":  "B9 Pakistan",
+                      "templateId":  "PK-local-worktree",
+                      "contentDirection":  "Brand trust and official registration route",
+                      "pagesProject":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\github-push-worktrees\\b9pakistan.com",
+                      "gsc":  "complete",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://b9pakistan.com/",
+                      "gscSource":  "Google Search Console Performance",
+                      "gscUpdatedAt":  "2026-06-07 to 2026-06-23; GSC updated 5.5 hours before check",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "GSC search signal exists",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  4,
+                      "impressions":  30,
+                      "ctr":  0.133,
+                      "avgPosition":  4.3,
+                      "gscSearchSynced":  true,
+                      "nextAction":  "manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-b9gameonlinepk.com",
+                      "scope":  "P1",
+                      "domain":  "b9gameonlinepk.com",
+                      "brand":  "B9 Pakistan",
+                      "templateId":  "PK-local-worktree",
+                      "contentDirection":  "H5 games and mobile play intent",
+                      "pagesProject":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\github-push-worktrees\\b9gameonlinepk.com",
+                      "gsc":  "complete",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://b9gameonlinepk.com/",
+                      "gscSource":  "Google Search Console Performance",
+                      "gscUpdatedAt":  "2026-06-07 to 2026-06-23; GSC updated 5.5 hours before check",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "GSC search signal exists",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  5,
+                      "impressions":  49,
+                      "ctr":  0.102,
+                      "avgPosition":  5.7,
+                      "gscSearchSynced":  true,
+                      "nextAction":  "manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-b9downloadpk.com",
+                      "scope":  "P1",
+                      "domain":  "b9downloadpk.com",
+                      "brand":  "B9 Pakistan",
+                      "templateId":  "PK-local-worktree",
+                      "contentDirection":  "Download and install intent",
+                      "pagesProject":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\github-push-worktrees\\b9downloadpk.com",
+                      "gsc":  "complete",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://b9downloadpk.com/",
+                      "gscSource":  "Google Search Console Performance",
+                      "gscUpdatedAt":  "2026-06-07 to 2026-06-23; GSC updated 5.5 hours before check",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "GSC search signal exists",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  2,
+                      "ctr":  0,
+                      "avgPosition":  1.5,
+                      "gscSearchSynced":  true,
+                      "nextAction":  "manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-b9pakistanapp.com",
+                      "scope":  "P2",
+                      "domain":  "b9pakistanapp.com",
+                      "brand":  "B9 Pakistan",
+                      "templateId":  "PK-local-worktree",
+                      "contentDirection":  "Pakistan payment and wallet intent",
+                      "pagesProject":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\github-push-worktrees\\b9pakistanapp.com",
+                      "gsc":  "complete",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://b9pakistanapp.com/",
+                      "gscSource":  "Google Search Console Performance",
+                      "gscUpdatedAt":  "2026-06-07 to 2026-06-23; GSC updated 5.5 hours before check",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "GSC search signal exists",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  22,
+                      "ctr":  0,
+                      "avgPosition":  10,
+                      "gscSearchSynced":  true,
+                      "nextAction":  "manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-b9pakistanapk.com",
+                      "scope":  "P2",
+                      "domain":  "b9pakistanapk.com",
+                      "brand":  "B9 Pakistan",
+                      "templateId":  "PK-local-worktree",
+                      "contentDirection":  "Android technical troubleshooting intent",
+                      "pagesProject":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\github-push-worktrees\\b9pakistanapk.com",
+                      "gsc":  "complete",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://b9pakistanapk.com/",
+                      "gscSource":  "Google Search Console Performance",
+                      "gscUpdatedAt":  "2026-06-07 to 2026-06-23; GSC updated 5.5 hours before check",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "GSC search signal exists",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  1,
+                      "ctr":  0,
+                      "avgPosition":  1,
+                      "gscSearchSynced":  true,
+                      "nextAction":  "manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9downloadpk.com",
+                      "scope":  "P1",
+                      "domain":  "s9downloadpk.com",
+                      "brand":  "S9 Access Center",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 Game download and Android install authority for Pakistan users",
+                      "pagesProject":  "https://s9downloadpk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9downloadpk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9pakistanapk.com",
+                      "scope":  "P1",
+                      "domain":  "s9pakistanapk.com",
+                      "brand":  "S9 APK Source Desk",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 APK version, source, file-size and update safety authority for Pakistan users",
+                      "pagesProject":  "https://s9pakistanapk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9pakistanapk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9earningpk.com",
+                      "scope":  "P1",
+                      "domain":  "s9earningpk.com",
+                      "brand":  "S9 Wallet Desk",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 wallet, withdrawal, Easypaisa and JazzCash support authority for Pakistan users",
+                      "pagesProject":  "https://s9earningpk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9earningpk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9pkapp.com",
+                      "scope":  "P1",
+                      "domain":  "s9pkapp.com",
+                      "brand":  "S9 Login Recovery Desk",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 login, register, OTP and password recovery authority for Pakistan users",
+                      "pagesProject":  "https://s9pkapp.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9pkapp.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9gamepakistan.com",
+                      "scope":  "P1",
+                      "domain":  "s9gamepakistan.com",
+                      "brand":  "S9 Game Pakistan Academy",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 game rules, beginner lessons and gameplay guide authority for Pakistan users",
+                      "pagesProject":  "https://s9gamepakistan.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9gamepakistan.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9pakistan.com",
+                      "scope":  "P1",
+                      "domain":  "s9pakistan.com",
+                      "brand":  "S9 Trust Review Journal",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 safety, trust, official website checks and risk review authority for Pakistan users",
+                      "pagesProject":  "https://s9pakistan.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9pakistan.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9onlinepk.com",
+                      "scope":  "P1",
+                      "domain":  "s9onlinepk.com",
+                      "brand":  "S9 Roman Urdu Help",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 Roman Urdu local help authority for Pakistan mobile users",
+                      "pagesProject":  "https://s9onlinepk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9onlinepk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9gamebonus.com",
+                      "scope":  "P1",
+                      "domain":  "s9gamebonus.com",
+                      "brand":  "S9 Bonus Terms Board",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 bonus, referral, promo code and agent code terms authority for Pakistan users",
+                      "pagesProject":  "https://s9gamebonus.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9gamebonus.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9pakistanapp.com",
+                      "scope":  "P1",
+                      "domain":  "s9pakistanapp.com",
+                      "brand":  "S9 App Fix Desk",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 app not working, crash, network and Android troubleshooting authority for Pakistan users",
+                      "pagesProject":  "https://s9pakistanapp.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9pakistanapp.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-s9gameonlinepk.com",
+                      "scope":  "P1",
+                      "domain":  "s9gameonlinepk.com",
+                      "brand":  "S9 Online Compare Desk",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "S9 online alternatives, competitor comparison and feature review authority for Pakistan users",
+                      "pagesProject":  "https://s9gameonlinepk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://s9gameonlinepk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pakistan.com",
+                      "scope":  "P1",
+                      "domain":  "k1pakistan.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 Pakistan authority and brand search hub",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pakistan.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pakistanapp.com",
+                      "scope":  "P1",
+                      "domain":  "k1pakistanapp.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 Pakistan app access and mobile support hub",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pakistanapp.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pkapp.com",
+                      "scope":  "P1",
+                      "domain":  "k1pkapp.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 PK app download and mobile troubleshooting hub",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pkapp.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1onlinepk.com",
+                      "scope":  "P1",
+                      "domain":  "k1onlinepk.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 online Pakistan H5 and access guide",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1onlinepk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-k1earningpk.com",
+                      "scope":  "P2",
+                      "domain":  "k1earningpk.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 earning Pakistan guide and user education hub",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1earningpk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-k1gamebonus.com",
+                      "scope":  "P2",
+                      "domain":  "k1gamebonus.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 game bonus guide and offer explanation hub",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1gamebonus.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-k1gamehubpk.com",
+                      "scope":  "P2",
+                      "domain":  "k1gamehubpk.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 game hub Pakistan topic cluster and navigation site",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1gamehubpk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-k1pkhub.com",
+                      "scope":  "P2",
+                      "domain":  "k1pkhub.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 Pakistan hub for brand, app and support intent",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pkhub.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-k1bonuspk.com",
+                      "scope":  "P2",
+                      "domain":  "k1bonuspk.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 bonus Pakistan long-tail and FAQ site",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1bonuspk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P2-k1pkonline.com",
+                      "scope":  "P2",
+                      "domain":  "k1pkonline.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-bulk-csv",
+                      "contentDirection":  "K1 PK online access and H5 mobile guide",
+                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pkonline.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "gscSearchSynced":  false,
+                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
+                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "issues":  [
+                                     "register_missing",
+                                     "gsc_wait",
+                                     "manifest_wait"
+                                 ]
+                  }
+              ]
+}

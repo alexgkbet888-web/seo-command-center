@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "example.com",
+  "brand": "B9 Pakistan",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "P1",
+  "owner": "team-member-name",
+  "repoUrl": "https://github.com/account/repo",
+  "deployUrl": "https://example.com/",
+  "siteType": "authority",
+  "positioning": "Official route, B9game guide, Pakistan mobile SEO asset",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "B9game Pakistan",
+    "B9Game",
+    "B9 Pakistan"
+  ],
+  "secondaryKeywords": [
+    "B9game register Pakistan",
+    "B9game APK",
+    "B9game H5"
+  ],
+  "competitors": [
+    "https://b9gameapp.com/",
+    "https://b9game.net/",
+    "https://b9game.io/"
+  ],
+  "technical": {
+    "sitemapUrl": "https://example.com/sitemap.xml",
+    "robotsUrl": "https://example.com/robots.txt",
+    "feedUrl": "https://example.com/feed.xml",
+    "canonicalRoot": "https://example.com/",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:example.com",
+    "connected": false,
+    "note": "Set true only after GSC permission is verified."
+  },
+  "contentPlan": {
+    "homepageAngle": "Brand trust and registration route",
+    "clusters": [
+      "download",
+      "apk",
+      "payment",
+      "h5",
+      "support"
+    ],
+    "weeklyUpdateTarget": 3
+  },
+  "lastUpdated": "2026-06-26"
+}

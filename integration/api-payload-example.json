@@ -1,0 +1,48 @@
+{
+  "project": "b9-pakistan",
+  "source": "team-submit",
+  "submittedAt": "2026-06-26T12:00:00+09:00",
+  "authTokenName": "SEO_COCKPIT_INGEST_TOKEN",
+  "sites": [
+    {
+      "domain": "example-one.com",
+      "brand": "B9 Pakistan",
+      "market": "Pakistan",
+      "language": "en-PK",
+      "batch": "2026-06-26-A",
+      "owner": "team-a",
+      "repoUrl": "https://github.com/account/example-one",
+      "deployUrl": "https://example-one.com/",
+      "siteType": "authority",
+      "positioning": "Official route and B9game Pakistan guide",
+      "status": "active",
+      "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+      "primaryKeywords": [
+        "B9game Pakistan",
+        "B9Game",
+        "B9 Pakistan"
+      ],
+      "secondaryKeywords": [
+        "B9game register Pakistan",
+        "B9game account safety Pakistan"
+      ],
+      "competitors": [
+        "https://b9gameapp.com/",
+        "https://b9game.net/"
+      ],
+      "technical": {
+        "sitemapUrl": "https://example-one.com/sitemap.xml",
+        "robotsUrl": "https://example-one.com/robots.txt",
+        "feedUrl": "https://example-one.com/feed.xml",
+        "hasH5Responsive": true,
+        "hasRegisterCta": true,
+        "hasLoginLink": false,
+        "hasLotteryDirection": false
+      },
+      "gsc": {
+        "property": "sc-domain:example-one.com",
+        "connected": false
+      }
+    }
+  ]
+}
