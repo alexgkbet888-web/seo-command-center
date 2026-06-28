@@ -1,72 +1,132 @@
 {
-    "generatedAt":  "2026-06-27 16:09 Asia/Tokyo",
+    "generatedAt":  "2026-06-29 00:14 Asia/Tokyo",
     "sourcesFile":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\b9-traffic-cockpit\\integration\\manifest-sources.csv",
     "incomingCsvFiles":  [
                              "incoming/k1-pakistan-sites.csv",
                              "incoming/k1-sites-2026-06-27.csv",
                              "incoming/s9-pakistan-sites.csv"
                          ],
-    "manifestCount":  45,
+    "manifestCount":  55,
     "profileCount":  25,
-    "duplicateCount":  20,
+    "duplicateCount":  30,
     "duplicates":  [
                        {
                            "domain":  "k1pakistan.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1pakistan.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pakistanapp.com",
+                           "keptSource":  "https://k1pakistanapp.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pkapp.com",
+                           "keptSource":  "https://k1pkapp.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1onlinepk.com",
+                           "keptSource":  "https://k1onlinepk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1earningpk.com",
+                           "keptSource":  "https://k1earningpk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1gamebonus.com",
+                           "keptSource":  "https://k1gamebonus.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1gamehubpk.com",
+                           "keptSource":  "https://k1gamehubpk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pkhub.com",
+                           "keptSource":  "https://k1pkhub.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1bonuspk.com",
+                           "keptSource":  "https://k1bonuspk.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pkonline.com",
+                           "keptSource":  "https://k1pkonline.com/seo-manifest.json",
+                           "ignoredSource":  "incoming/k1-pakistan-sites.csv",
+                           "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
+                       },
+                       {
+                           "domain":  "k1pakistan.com",
+                           "keptSource":  "https://k1pakistan.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1pakistanapp.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1pakistanapp.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1pkapp.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1pkapp.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1onlinepk.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1onlinepk.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1earningpk.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1earningpk.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1gamebonus.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1gamebonus.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1gamehubpk.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1gamehubpk.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1pkhub.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1pkhub.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1bonuspk.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1bonuspk.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
                        {
                            "domain":  "k1pkonline.com",
-                           "keptSource":  "incoming/k1-pakistan-sites.csv",
+                           "keptSource":  "https://k1pkonline.com/seo-manifest.json",
                            "ignoredSource":  "incoming/k1-sites-2026-06-27.csv",
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        },
@@ -131,6 +191,44 @@
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        }
                    ],
+    "warningCount":  5,
+    "warnings":  [
+                     {
+                         "sourceUrl":  "https://b9pakistan.com/seo-manifest.json",
+                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9pakistan.com\\seo-manifest.json",
+                         "domain":  "b9pakistan.com",
+                         "status":  "fallback",
+                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
+                     },
+                     {
+                         "sourceUrl":  "https://b9gameonlinepk.com/seo-manifest.json",
+                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9gameonlinepk.com\\seo-manifest.json",
+                         "domain":  "b9gameonlinepk.com",
+                         "status":  "fallback",
+                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
+                     },
+                     {
+                         "sourceUrl":  "https://b9downloadpk.com/seo-manifest.json",
+                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9downloadpk.com\\seo-manifest.json",
+                         "domain":  "b9downloadpk.com",
+                         "status":  "fallback",
+                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
+                     },
+                     {
+                         "sourceUrl":  "https://b9pakistanapp.com/seo-manifest.json",
+                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9pakistanapp.com\\seo-manifest.json",
+                         "domain":  "b9pakistanapp.com",
+                         "status":  "fallback",
+                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
+                     },
+                     {
+                         "sourceUrl":  "https://b9pakistanapk.com/seo-manifest.json",
+                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9pakistanapk.com\\seo-manifest.json",
+                         "domain":  "b9pakistanapk.com",
+                         "status":  "fallback",
+                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
+                     }
+                 ],
     "errorCount":  0,
     "errors":  [
 

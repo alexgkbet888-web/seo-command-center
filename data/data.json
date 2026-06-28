@@ -1,7 +1,7 @@
 {
     "meta":  {
                  "title":  "SEO Command Center",
-                 "generatedAt":  "2026-06-27T07:09:33.9524199Z",
+                 "generatedAt":  "2026-06-28T15:14:35.4034272Z",
                  "timezone":  "Asia/Tokyo",
                  "mode":  "static-first-dashboard",
                  "notes":  [
@@ -19,8 +19,8 @@
              },
     "kpis":  {
                  "totalSites":  25,
-                 "p1Sites":  17,
-                 "p2Sites":  8,
+                 "p1Sites":  23,
+                 "p2Sites":  2,
                  "healthy":  25,
                  "healthRate":  1,
                  "seoDeployed":  25,
@@ -38,7 +38,7 @@
                    "plan":  "GitHub Pages / static dashboard",
                    "source":  "local-refresh-script",
                    "realtime":  false,
-                   "snapshotCapturedAt":  "2026-06-27T07:09:34.0342454Z",
+                   "snapshotCapturedAt":  "2026-06-28T15:14:35.4645894Z",
                    "apiRequired":  "GSC API, GA4 API and optional Cloudflare Analytics proxy for full automation",
                    "includedRequestsMonthly":  0,
                    "requestsThisMonth":  0,
@@ -64,7 +64,7 @@
                                                      "label":  "snapshot_connected",
                                                      "realtime":  false,
                                                      "source":  "gsc-daily-self-check-2026-06-26.csv",
-                                                     "capturedAt":  "2026-06-27T07:09:34.0342454Z",
+                                                     "capturedAt":  "2026-06-28T15:14:35.4645894Z",
                                                      "syncedSites":  5,
                                                      "errors":  20,
                                                      "clicks":  9,
@@ -79,10 +79,10 @@
                                            }
                       },
     "gscSearchAnalytics":  {
-                               "generatedAt":  "2026-06-27T07:09:34.0342454Z",
+                               "generatedAt":  "2026-06-28T15:14:35.4645894Z",
                                "range":  {
-                                             "startDate":  "2026-06-27",
-                                             "endDate":  "2026-06-27",
+                                             "startDate":  "2026-06-29",
+                                             "endDate":  "2026-06-29",
                                              "days":  1
                                          },
                                "summary":  {
@@ -98,342 +98,994 @@
                                           },
                                "sites":  [
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "b9pakistan.com",
+                                                 "brand":  "B9 Pakistan",
+                                                 "scope":  "P1",
+                                                 "clicks":  4,
+                                                 "impressions":  30,
+                                                 "ctr":  0.133,
+                                                 "avgPosition":  4.3
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "b9gameonlinepk.com",
+                                                 "brand":  "B9 Pakistan",
+                                                 "scope":  "P1",
+                                                 "clicks":  5,
+                                                 "impressions":  49,
+                                                 "ctr":  0.102,
+                                                 "avgPosition":  5.7
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "b9downloadpk.com",
+                                                 "brand":  "B9 Pakistan",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  2,
+                                                 "ctr":  0,
+                                                 "avgPosition":  1.5
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "b9pakistanapp.com",
+                                                 "brand":  "B9 Pakistan",
+                                                 "scope":  "P2",
+                                                 "clicks":  0,
+                                                 "impressions":  22,
+                                                 "ctr":  0,
+                                                 "avgPosition":  10
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "b9pakistanapk.com",
+                                                 "brand":  "B9 Pakistan",
+                                                 "scope":  "P2",
+                                                 "clicks":  0,
+                                                 "impressions":  1,
+                                                 "ctr":  0,
+                                                 "avgPosition":  1
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1pakistan.com",
+                                                 "brand":  "K1 Pakistan",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1pakistanapp.com",
+                                                 "brand":  "K1 Pakistan App",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1pkapp.com",
+                                                 "brand":  "K1 PK App",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1onlinepk.com",
+                                                 "brand":  "K1 Online PK",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1earningpk.com",
+                                                 "brand":  "K1 Earning PK",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1gamebonus.com",
+                                                 "brand":  "K1 Game Bonus",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1gamehubpk.com",
+                                                 "brand":  "K1 Game Hub PK",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1pkhub.com",
+                                                 "brand":  "K1 PK Hub",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1bonuspk.com",
+                                                 "brand":  "K1 Bonus PK",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "k1pkonline.com",
+                                                 "brand":  "K1 PK Online",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9downloadpk.com",
+                                                 "brand":  "S9 Access Center",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9pakistanapk.com",
+                                                 "brand":  "S9 APK Source Desk",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9earningpk.com",
+                                                 "brand":  "S9 Wallet Desk",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9pkapp.com",
+                                                 "brand":  "S9 Login Recovery Desk",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9gamepakistan.com",
+                                                 "brand":  "S9 Game Pakistan Academy",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9pakistan.com",
+                                                 "brand":  "S9 Trust Review Journal",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9onlinepk.com",
+                                                 "brand":  "S9 Roman Urdu Help",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9gamebonus.com",
+                                                 "brand":  "S9 Bonus Terms Board",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9pakistanapp.com",
+                                                 "brand":  "S9 App Fix Desk",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              },
                                              {
-                                                 "domain":  null,
-                                                 "brand":  null,
-                                                 "scope":  null,
-                                                 "clicks":  null,
-                                                 "impressions":  null,
-                                                 "ctr":  null,
-                                                 "avgPosition":  null
+                                                 "domain":  "s9gameonlinepk.com",
+                                                 "brand":  "S9 Online Compare Desk",
+                                                 "scope":  "P1",
+                                                 "clicks":  0,
+                                                 "impressions":  0,
+                                                 "ctr":  0,
+                                                 "avgPosition":  0
                                              }
                                          ],
                                "errors":  [
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1pakistan.com",
+                                                  "brand":  "K1 Pakistan",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1pakistanapp.com",
+                                                  "brand":  "K1 Pakistan App",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1pkapp.com",
+                                                  "brand":  "K1 PK App",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1onlinepk.com",
+                                                  "brand":  "K1 Online PK",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1earningpk.com",
+                                                  "brand":  "K1 Earning PK",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1gamebonus.com",
+                                                  "brand":  "K1 Game Bonus",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1gamehubpk.com",
+                                                  "brand":  "K1 Game Hub PK",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1pkhub.com",
+                                                  "brand":  "K1 PK Hub",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1bonuspk.com",
+                                                  "brand":  "K1 Bonus PK",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "k1pkonline.com",
+                                                  "brand":  "K1 PK Online",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9downloadpk.com",
+                                                  "brand":  "S9 Access Center",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9pakistanapk.com",
+                                                  "brand":  "S9 APK Source Desk",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9earningpk.com",
+                                                  "brand":  "S9 Wallet Desk",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9pkapp.com",
+                                                  "brand":  "S9 Login Recovery Desk",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9gamepakistan.com",
+                                                  "brand":  "S9 Game Pakistan Academy",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9pakistan.com",
+                                                  "brand":  "S9 Trust Review Journal",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9onlinepk.com",
+                                                  "brand":  "S9 Roman Urdu Help",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9gamebonus.com",
+                                                  "brand":  "S9 Bonus Terms Board",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9pakistanapp.com",
+                                                  "brand":  "S9 App Fix Desk",
+                                                  "scope":  "P1"
                                               },
                                               {
-                                                  "domain":  null,
-                                                  "brand":  null,
-                                                  "scope":  null
+                                                  "domain":  "s9gameonlinepk.com",
+                                                  "brand":  "S9 Online Compare Desk",
+                                                  "scope":  "P1"
                                               }
                                           ]
                            },
+    "k1Monitor":  {
+                      "generatedAt":  "2026-06-28T15:14:35.5524422Z",
+                      "sites":  [
+                                    {
+                                        "id":  "PK-P1-k1pakistan.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1pakistan.com",
+                                        "brand":  "K1 Pakistan",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 Game download authority site for Pakistan Android users",
+                                        "pagesProject":  "https://k1pakistan.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1pakistan.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  49,
+                                        "sitemapUrlCount":  50,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/android/",
+                                                               "/contact/",
+                                                               "/download/",
+                                                               "/faq/",
+                                                               "/guides/android-apk-troubleshooting/",
+                                                               "/guides/android-unknown-source-warning/"
+                                                           ],
+                                        "primaryKeywords":  "K1 game download, K1 Pakistan, K 1 download",
+                                        "secondaryKeywords":  [
+                                                                  "K1 game APK",
+                                                                  "K1 game download Pakistan",
+                                                                  "K1 game download Android",
+                                                                  "K1 APK install"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  49,
+                                                          "descriptions":  49,
+                                                          "canonicals":  49,
+                                                          "h1":  49,
+                                                          "schema":  75,
+                                                          "viewport":  49,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1pakistanapp.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1pakistanapp.com",
+                                        "brand":  "K1 Pakistan App",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 login, OTP, password and account-access help site",
+                                        "pagesProject":  "https://k1pakistanapp.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1pakistanapp.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  50,
+                                        "sitemapUrlCount":  51,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/account-safety/",
+                                                               "/contact/",
+                                                               "/faq/",
+                                                               "/guides/account-locked/",
+                                                               "/guides/account-locked-message/",
+                                                               "/guides/app-login-vs-web-login/"
+                                                           ],
+                                        "primaryKeywords":  "K1 login, K1Login, K1 app login",
+                                        "secondaryKeywords":  [
+                                                                  "K1 login password",
+                                                                  "K1 game login",
+                                                                  "K1 OTP not received",
+                                                                  "K1 register Pakistan"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  50,
+                                                          "descriptions":  50,
+                                                          "canonicals":  50,
+                                                          "h1":  50,
+                                                          "schema":  76,
+                                                          "viewport":  50,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1pkapp.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1pkapp.com",
+                                        "brand":  "K1 PK App",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 latest version, APK update and changelog tracker",
+                                        "pagesProject":  "https://k1pkapp.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1pkapp.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  50,
+                                        "sitemapUrlCount":  51,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/changelog/",
+                                                               "/contact/",
+                                                               "/faq/",
+                                                               "/guides/android-version-required/",
+                                                               "/guides/apk-changelog-template/",
+                                                               "/guides/apk-file-size-changed-same-version/"
+                                                           ],
+                                        "primaryKeywords":  "K1 update, K1 game latest version",
+                                        "secondaryKeywords":  [
+                                                                  "K1 game news and updates",
+                                                                  "K1 update latest version",
+                                                                  "K1 APK version check",
+                                                                  "K1 changelog"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  50,
+                                                          "descriptions":  50,
+                                                          "canonicals":  50,
+                                                          "h1":  50,
+                                                          "schema":  76,
+                                                          "viewport":  50,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1onlinepk.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1onlinepk.com",
+                                        "brand":  "K1 Online PK",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 Pakistan wallet, withdrawal, deposit and support guide",
+                                        "pagesProject":  "https://k1onlinepk.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1onlinepk.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  46,
+                                        "sitemapUrlCount":  49,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/contact/",
+                                                               "/faq/",
+                                                               "/guides/account-name-mismatch/",
+                                                               "/guides/deposit-bonus-not-added/",
+                                                               "/guides/deposit-pending-pakistan/",
+                                                               "/guides/deposit-successful-but-balance-not-added/"
+                                                           ],
+                                        "primaryKeywords":  "K-1 support, K1 support, K1 wallet Pakistan",
+                                        "secondaryKeywords":  [
+                                                                  "K1 withdrawal pending",
+                                                                  "K1 JazzCash deposit",
+                                                                  "K1 Easypaisa withdrawal",
+                                                                  "K1 payment support"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  46,
+                                                          "descriptions":  46,
+                                                          "canonicals":  46,
+                                                          "h1":  46,
+                                                          "schema":  68,
+                                                          "viewport":  46,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1earningpk.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1earningpk.com",
+                                        "brand":  "K1 Earning PK",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 game library, earning app and game-mode guide site",
+                                        "pagesProject":  "https://k1earningpk.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1earningpk.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  49,
+                                        "sitemapUrlCount":  50,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/card-games/",
+                                                               "/contact/",
+                                                               "/crash-games/",
+                                                               "/faq/",
+                                                               "/fishing-games/",
+                                                               "/guides/aviator-style-games/"
+                                                           ],
+                                        "primaryKeywords":  "K1 fishing, K1 game earning app",
+                                        "secondaryKeywords":  [
+                                                                  "K1 fishing game guide",
+                                                                  "K1 teen patti guide",
+                                                                  "K1 mines guide",
+                                                                  "K1 crash games"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  49,
+                                                          "descriptions":  49,
+                                                          "canonicals":  49,
+                                                          "h1":  49,
+                                                          "schema":  74,
+                                                          "viewport":  49,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1gamebonus.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1gamebonus.com",
+                                        "brand":  "K1 Game Bonus",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 safety review, real-or-fake and scam-risk authority site",
+                                        "pagesProject":  "https://k1gamebonus.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1gamebonus.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  48,
+                                        "sitemapUrlCount":  49,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/contact/",
+                                                               "/faq/",
+                                                               "/guides/apk-mirror-warning-signs/",
+                                                               "/guides/bonus-claim-risks/",
+                                                               "/guides/bonus-code-expired/",
+                                                               "/guides/bonus-safety-review-center/"
+                                                           ],
+                                        "primaryKeywords":  "is K1 game real, is K1 game safe, is K1 game real or fake",
+                                        "secondaryKeywords":  [
+                                                                  "K1 game review Pakistan",
+                                                                  "K1 game scam red flags",
+                                                                  "K1 bonus safety",
+                                                                  "K1 safe source checklist"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  48,
+                                                          "descriptions":  48,
+                                                          "canonicals":  48,
+                                                          "h1":  48,
+                                                          "schema":  69,
+                                                          "viewport":  48,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1gamehubpk.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1gamehubpk.com",
+                                        "brand":  "K1 Game Hub PK",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "Roman Urdu K1 help center for Pakistan mobile users",
+                                        "pagesProject":  "https://k1gamehubpk.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1gamehubpk.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  48,
+                                        "sitemapUrlCount":  49,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/contact/",
+                                                               "/download-kaise-kare/",
+                                                               "/faq/",
+                                                               "/guides/account-banana/",
+                                                               "/guides/account-verify-kaise-kare/",
+                                                               "/guides/app-download-nahi-ho-rahi/"
+                                                           ],
+                                        "primaryKeywords":  "K1 game kaise use kare, K1 game Pakistan Roman Urdu",
+                                        "secondaryKeywords":  [
+                                                                  "K1 game download kaise kare",
+                                                                  "K1 game login kaise kare",
+                                                                  "K1 game se paisa kaise nikale",
+                                                                  "K1 OTP masla"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  48,
+                                                          "descriptions":  48,
+                                                          "canonicals":  48,
+                                                          "h1":  48,
+                                                          "schema":  70,
+                                                          "viewport":  48,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1pkhub.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1pkhub.com",
+                                        "brand":  "K1 PK Hub",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 agent, referral, invitation and bonus-code notes site",
+                                        "pagesProject":  "https://k1pkhub.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1pkhub.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  49,
+                                        "sitemapUrlCount":  50,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  34,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/agent-program/",
+                                                               "/bonus-terms/",
+                                                               "/contact/",
+                                                               "/faq/",
+                                                               "/guides/agent-code-vs-referral-code/",
+                                                               "/guides/agent-contact-verification/"
+                                                           ],
+                                        "primaryKeywords":  "agents K1, agent K1, K1 game bonus code",
+                                        "secondaryKeywords":  [
+                                                                  "K1 agent code",
+                                                                  "K1 referral code",
+                                                                  "K1 invitation code",
+                                                                  "agents K1 Pakistan"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  49,
+                                                          "descriptions":  49,
+                                                          "canonicals":  49,
+                                                          "h1":  49,
+                                                          "schema":  73,
+                                                          "viewport":  49,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1bonuspk.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1bonuspk.com",
+                                        "brand":  "K1 Bonus PK",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 troubleshooting, app crash, not opening and login-error fix center",
+                                        "pagesProject":  "https://k1bonuspk.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1bonuspk.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  48,
+                                        "sitemapUrlCount":  49,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/app-crash/",
+                                                               "/contact/",
+                                                               "/faq/",
+                                                               "/guides/app-closes-after-permission/",
+                                                               "/guides/app-crash-fix/",
+                                                               "/guides/app-freezes-after-login/"
+                                                           ],
+                                        "primaryKeywords":  "K1 game not working, K1 game app crash, K1 game not opening",
+                                        "secondaryKeywords":  [
+                                                                  "K1 login error",
+                                                                  "K1 OTP problem",
+                                                                  "K1 support evidence",
+                                                                  "K1 app fix Pakistan"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  48,
+                                                          "descriptions":  48,
+                                                          "canonicals":  48,
+                                                          "h1":  48,
+                                                          "schema":  70,
+                                                          "viewport":  48,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    },
+                                    {
+                                        "id":  "PK-P1-k1pkonline.com",
+                                        "scope":  "P1",
+                                        "domain":  "k1pkonline.com",
+                                        "brand":  "K1 PK Online",
+                                        "templateId":  "PK-manifest",
+                                        "contentDirection":  "K1 alternatives, official-link comparison and feature-matrix site",
+                                        "pagesProject":  "https://k1pkonline.com/seo-manifest.json",
+                                        "gsc":  "pending",
+                                        "gscPropertyType":  "url-prefix",
+                                        "gscSiteUrl":  "https://k1pkonline.com/",
+                                        "gscSource":  "No reliable data",
+                                        "gscUpdatedAt":  "No reliable data",
+                                        "sitemapSubmitted":  true,
+                                        "sitemapStatus":  "submitted_or_configured",
+                                        "indexStatus":  "No reliable search signal yet",
+                                        "seo":  "deployed",
+                                        "health":  "ok",
+                                        "risk":  "high",
+                                        "clicks":  0,
+                                        "impressions":  0,
+                                        "ctr":  0,
+                                        "avgPosition":  0,
+                                        "pageCount":  48,
+                                        "sitemapUrlCount":  49,
+                                        "keywordCount":  21,
+                                        "contentCalendarCount":  35,
+                                        "contentBacklogCount":  52,
+                                        "internalLinkCount":  24,
+                                        "latestLocalUpdate":  "2026-06-29 00:08",
+                                        "latestLocalFile":  "sitemap.xml",
+                                        "importantPages":  [
+                                                               "/404.html",
+                                                               "/about/",
+                                                               "/alternatives/",
+                                                               "/contact/",
+                                                               "/decision-guide/",
+                                                               "/faq/",
+                                                               "/feature-matrix/",
+                                                               "/guides/alternative-faq/"
+                                                           ],
+                                        "primaryKeywords":  "K1 game alternative, apps like K1 game, K1 game comparison",
+                                        "secondaryKeywords":  [
+                                                                  "K1 official link comparison",
+                                                                  "K1 game feature matrix",
+                                                                  "K1 game vs other apps",
+                                                                  "K1 safe choice checklist"
+                                                              ],
+                                        "technical":  {
+                                                          "titles":  48,
+                                                          "descriptions":  48,
+                                                          "canonicals":  48,
+                                                          "h1":  48,
+                                                          "schema":  70,
+                                                          "viewport":  48,
+                                                          "manifest":  true
+                                                      },
+                                        "gscSearchSynced":  false,
+                                        "nextAction":  "gsc_wait",
+                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "issues":  [
+                                                       "gsc_wait"
+                                                   ]
+                                    }
+                                ],
+                      "summary":  {
+                                      "sites":  10,
+                                      "pages":  485,
+                                      "sitemapUrls":  497,
+                                      "keywords":  210,
+                                      "reliableGscSites":  0
+                                  }
+                  },
     "seoProgress":  {
                         "p1":  {
-                                   "sites":  17,
-                                   "seoDeployed":  17
+                                   "sites":  23,
+                                   "seoDeployed":  23
                                },
                         "p2":  {
-                                   "sites":  8,
-                                   "seoDeployed":  8
+                                   "sites":  2,
+                                   "seoDeployed":  2
                                }
                     },
     "gscSubmission":  {
@@ -441,14 +1093,14 @@
                           "sitemapComplete":  25,
                           "searchDataSites":  5,
                           "p1":  {
-                                     "sites":  17,
+                                     "sites":  23,
                                      "gscComplete":  3,
-                                     "sitemapComplete":  17
+                                     "sitemapComplete":  23
                                  },
                           "p2":  {
-                                     "sites":  8,
+                                     "sites":  2,
                                      "gscComplete":  2,
-                                     "sitemapComplete":  8
+                                     "sitemapComplete":  2
                                  },
                           "sourceStats":  {
                                               "local":  {
@@ -456,19 +1108,11 @@
                                                             "complete":  5,
                                                             "sitemapComplete":  25,
                                                             "source":  "local-refresh",
-                                                            "generatedAt":  "2026-06-27T07:09:34.3777432Z"
+                                                            "generatedAt":  "2026-06-28T15:14:35.9782644Z"
                                                         }
                                           }
                       },
     "topBrands":  [
-                      {
-                          "name":  "K1 Pakistan",
-                          "sites":  10,
-                          "okRate":  1,
-                          "issue":  0,
-                          "impressions":  0,
-                          "clicks":  0
-                      },
                       {
                           "name":  "B9 Pakistan",
                           "sites":  5,
@@ -478,23 +1122,7 @@
                           "clicks":  9
                       },
                       {
-                          "name":  "S9 Bonus Terms Board",
-                          "sites":  1,
-                          "okRate":  1,
-                          "issue":  0,
-                          "impressions":  0,
-                          "clicks":  0
-                      },
-                      {
-                          "name":  "S9 Roman Urdu Help",
-                          "sites":  1,
-                          "okRate":  1,
-                          "issue":  0,
-                          "impressions":  0,
-                          "clicks":  0
-                      },
-                      {
-                          "name":  "S9 App Fix Desk",
+                          "name":  "S9 Login Recovery Desk",
                           "sites":  1,
                           "okRate":  1,
                           "issue":  0,
@@ -510,7 +1138,7 @@
                           "clicks":  0
                       },
                       {
-                          "name":  "S9 Online Compare Desk",
+                          "name":  "S9 Wallet Desk",
                           "sites":  1,
                           "okRate":  1,
                           "issue":  0,
@@ -518,7 +1146,7 @@
                           "clicks":  0
                       },
                       {
-                          "name":  "S9 Wallet Desk",
+                          "name":  "S9 Access Center",
                           "sites":  1,
                           "okRate":  1,
                           "issue":  0,
@@ -534,7 +1162,23 @@
                           "clicks":  0
                       },
                       {
-                          "name":  "S9 Login Recovery Desk",
+                          "name":  "S9 App Fix Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Online Compare Desk",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "S9 Bonus Terms Board",
                           "sites":  1,
                           "okRate":  1,
                           "issue":  0,
@@ -550,7 +1194,87 @@
                           "clicks":  0
                       },
                       {
-                          "name":  "S9 Access Center",
+                          "name":  "S9 Roman Urdu Help",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Online PK",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Earning PK",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 PK App",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Pakistan",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Pakistan App",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Bonus PK",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 PK Online",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 PK Hub",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Game Bonus",
+                          "sites":  1,
+                          "okRate":  1,
+                          "issue":  0,
+                          "impressions":  0,
+                          "clicks":  0
+                      },
+                      {
+                          "name":  "K1 Game Hub PK",
                           "sites":  1,
                           "okRate":  1,
                           "issue":  0,
@@ -575,7 +1299,7 @@
                                 "key":  "manifest",
                                 "name":  "SEO Manifest Collector",
                                 "status":  "connected",
-                                "value":  "10/25 manifest"
+                                "value":  "20/25 manifest"
                             },
                             {
                                 "key":  "site-behavior",
@@ -625,9 +1349,43 @@
                       "impressions":  30,
                       "ctr":  0.133,
                       "avgPosition":  4.3,
+                      "pageCount":  44,
+                      "sitemapUrlCount":  42,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "2026-06-28 23:54",
+                      "latestLocalFile":  "index.html",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/account-access/",
+                                             "/account-safety/",
+                                             "/b9game-account-kaise-banaye/",
+                                             "/b9game-account-locked-pakistan/",
+                                             "/b9game-account-page-not-loading-pakistan/",
+                                             "/b9game-mobile-verification-pakistan/"
+                                         ],
+                      "primaryKeywords":  "B9 Pakistan, B9game Pakistan, B9Game Pakistan, B9 register Pakistan",
+                      "secondaryKeywords":  [
+                                                "B9game official route Pakistan",
+                                                "B9game register guide",
+                                                "B9game account safety Pakistan",
+                                                "B9game support Pakistan"
+                                            ],
+                      "technical":  {
+                                        "titles":  44,
+                                        "descriptions":  44,
+                                        "canonicals":  44,
+                                        "h1":  44,
+                                        "schema":  137,
+                                        "viewport":  44,
+                                        "manifest":  true
+                                    },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -655,9 +1413,43 @@
                       "impressions":  49,
                       "ctr":  0.102,
                       "avgPosition":  5.7,
+                      "pageCount":  43,
+                      "sitemapUrlCount":  42,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "2026-06-28 23:54",
+                      "latestLocalFile":  "index.html",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/andar-bahar/",
+                                             "/andar-bahar-roman-urdu/",
+                                             "/aviator/",
+                                             "/b9game-cricket-h5-smooth-play-pakistan/",
+                                             "/b9game-cricket-kaise-khele/",
+                                             "/b9game-cricket-live-pakistan/"
+                                         ],
+                      "primaryKeywords":  "B9game, B9Game, b9 online, B9game online Pakistan",
+                      "secondaryKeywords":  [
+                                                "B9 aviator",
+                                                "B9 sports",
+                                                "B9 cricket",
+                                                "B9 H5 games"
+                                            ],
+                      "technical":  {
+                                        "titles":  43,
+                                        "descriptions":  43,
+                                        "canonicals":  43,
+                                        "h1":  43,
+                                        "schema":  133,
+                                        "viewport":  43,
+                                        "manifest":  true
+                                    },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -685,9 +1477,43 @@
                       "impressions":  2,
                       "ctr":  0,
                       "avgPosition":  1.5,
+                      "pageCount":  45,
+                      "sitemapUrlCount":  44,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "2026-06-28 23:54",
+                      "latestLocalFile":  "index.html",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/android-14-install/",
+                                             "/android-apk/",
+                                             "/apk-download-faq/",
+                                             "/apk-file-size/",
+                                             "/apk-latest-version/",
+                                             "/apk-update/"
+                                         ],
+                      "primaryKeywords":  "B9 download, B9 app download, B9 APK download, B9game download Pakistan",
+                      "secondaryKeywords":  [
+                                                "B9game APK",
+                                                "B9game latest version",
+                                                "B9game Android APK",
+                                                "B9game app not installing"
+                                            ],
+                      "technical":  {
+                                        "titles":  45,
+                                        "descriptions":  45,
+                                        "canonicals":  45,
+                                        "h1":  45,
+                                        "schema":  173,
+                                        "viewport":  45,
+                                        "manifest":  true
+                                    },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -715,9 +1541,43 @@
                       "impressions":  22,
                       "ctr":  0,
                       "avgPosition":  10,
+                      "pageCount":  43,
+                      "sitemapUrlCount":  42,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "2026-06-28 23:54",
+                      "latestLocalFile":  "index.html",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/app-bonus/",
+                                             "/b9game-easypaisa-payment-proof-pakistan/",
+                                             "/b9game-jazzcash-deposit-delay-pakistan/",
+                                             "/b9game-jazzcash-deposit-guide/",
+                                             "/b9game-jazzcash-deposit-kaise-kare/",
+                                             "/b9game-jazzcash-easypaisa-payment-checklist/"
+                                         ],
+                      "primaryKeywords":  "B9 payment Pakistan, B9 EasyPaisa, B9 JazzCash, B9 crypto Pakistan",
+                      "secondaryKeywords":  [
+                                                "B9 wallet Pakistan",
+                                                "B9 deposit Pakistan",
+                                                "B9 withdraw Pakistan",
+                                                "B9game payment checklist"
+                                            ],
+                      "technical":  {
+                                        "titles":  43,
+                                        "descriptions":  43,
+                                        "canonicals":  43,
+                                        "h1":  43,
+                                        "schema":  147,
+                                        "viewport":  43,
+                                        "manifest":  true
+                                    },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -745,11 +1605,685 @@
                       "impressions":  1,
                       "ctr":  0,
                       "avgPosition":  1,
+                      "pageCount":  45,
+                      "sitemapUrlCount":  44,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "2026-06-28 23:54",
+                      "latestLocalFile":  "index.html",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/android-13-14/",
+                                             "/android-help/",
+                                             "/android-requirements/",
+                                             "/apk-file-size/",
+                                             "/apk-not-downloading/",
+                                             "/apk-old-android-phone/"
+                                         ],
+                      "primaryKeywords":  "B9 APK, B9game APK, B9 Pakistan APK, B9 APK latest version",
+                      "secondaryKeywords":  [
+                                                "B9 APK parse error",
+                                                "B9 APK install blocked",
+                                                "B9 Android APK",
+                                                "B9game low storage APK install"
+                                            ],
+                      "technical":  {
+                                        "titles":  45,
+                                        "descriptions":  45,
+                                        "canonicals":  45,
+                                        "h1":  45,
+                                        "schema":  163,
+                                        "viewport":  45,
+                                        "manifest":  true
+                                    },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "manifest_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pakistan.com",
+                      "scope":  "P1",
+                      "domain":  "k1pakistan.com",
+                      "brand":  "K1 Pakistan",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 Game download authority site for Pakistan Android users",
+                      "pagesProject":  "https://k1pakistan.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pakistan.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  49,
+                      "sitemapUrlCount":  50,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/android/",
+                                             "/contact/",
+                                             "/download/",
+                                             "/faq/",
+                                             "/guides/android-apk-troubleshooting/",
+                                             "/guides/android-unknown-source-warning/"
+                                         ],
+                      "primaryKeywords":  "K1 game download, K1 Pakistan, K 1 download",
+                      "secondaryKeywords":  [
+                                                "K1 game APK",
+                                                "K1 game download Pakistan",
+                                                "K1 game download Android",
+                                                "K1 APK install"
+                                            ],
+                      "technical":  {
+                                        "titles":  49,
+                                        "descriptions":  49,
+                                        "canonicals":  49,
+                                        "h1":  49,
+                                        "schema":  75,
+                                        "viewport":  49,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pakistanapp.com",
+                      "scope":  "P1",
+                      "domain":  "k1pakistanapp.com",
+                      "brand":  "K1 Pakistan App",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 login, OTP, password and account-access help site",
+                      "pagesProject":  "https://k1pakistanapp.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pakistanapp.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  50,
+                      "sitemapUrlCount":  51,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/account-safety/",
+                                             "/contact/",
+                                             "/faq/",
+                                             "/guides/account-locked/",
+                                             "/guides/account-locked-message/",
+                                             "/guides/app-login-vs-web-login/"
+                                         ],
+                      "primaryKeywords":  "K1 login, K1Login, K1 app login",
+                      "secondaryKeywords":  [
+                                                "K1 login password",
+                                                "K1 game login",
+                                                "K1 OTP not received",
+                                                "K1 register Pakistan"
+                                            ],
+                      "technical":  {
+                                        "titles":  50,
+                                        "descriptions":  50,
+                                        "canonicals":  50,
+                                        "h1":  50,
+                                        "schema":  76,
+                                        "viewport":  50,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pkapp.com",
+                      "scope":  "P1",
+                      "domain":  "k1pkapp.com",
+                      "brand":  "K1 PK App",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 latest version, APK update and changelog tracker",
+                      "pagesProject":  "https://k1pkapp.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pkapp.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  50,
+                      "sitemapUrlCount":  51,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/changelog/",
+                                             "/contact/",
+                                             "/faq/",
+                                             "/guides/android-version-required/",
+                                             "/guides/apk-changelog-template/",
+                                             "/guides/apk-file-size-changed-same-version/"
+                                         ],
+                      "primaryKeywords":  "K1 update, K1 game latest version",
+                      "secondaryKeywords":  [
+                                                "K1 game news and updates",
+                                                "K1 update latest version",
+                                                "K1 APK version check",
+                                                "K1 changelog"
+                                            ],
+                      "technical":  {
+                                        "titles":  50,
+                                        "descriptions":  50,
+                                        "canonicals":  50,
+                                        "h1":  50,
+                                        "schema":  76,
+                                        "viewport":  50,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1onlinepk.com",
+                      "scope":  "P1",
+                      "domain":  "k1onlinepk.com",
+                      "brand":  "K1 Online PK",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 Pakistan wallet, withdrawal, deposit and support guide",
+                      "pagesProject":  "https://k1onlinepk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1onlinepk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  46,
+                      "sitemapUrlCount":  49,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/contact/",
+                                             "/faq/",
+                                             "/guides/account-name-mismatch/",
+                                             "/guides/deposit-bonus-not-added/",
+                                             "/guides/deposit-pending-pakistan/",
+                                             "/guides/deposit-successful-but-balance-not-added/"
+                                         ],
+                      "primaryKeywords":  "K-1 support, K1 support, K1 wallet Pakistan",
+                      "secondaryKeywords":  [
+                                                "K1 withdrawal pending",
+                                                "K1 JazzCash deposit",
+                                                "K1 Easypaisa withdrawal",
+                                                "K1 payment support"
+                                            ],
+                      "technical":  {
+                                        "titles":  46,
+                                        "descriptions":  46,
+                                        "canonicals":  46,
+                                        "h1":  46,
+                                        "schema":  68,
+                                        "viewport":  46,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1earningpk.com",
+                      "scope":  "P1",
+                      "domain":  "k1earningpk.com",
+                      "brand":  "K1 Earning PK",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 game library, earning app and game-mode guide site",
+                      "pagesProject":  "https://k1earningpk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1earningpk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  49,
+                      "sitemapUrlCount":  50,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/card-games/",
+                                             "/contact/",
+                                             "/crash-games/",
+                                             "/faq/",
+                                             "/fishing-games/",
+                                             "/guides/aviator-style-games/"
+                                         ],
+                      "primaryKeywords":  "K1 fishing, K1 game earning app",
+                      "secondaryKeywords":  [
+                                                "K1 fishing game guide",
+                                                "K1 teen patti guide",
+                                                "K1 mines guide",
+                                                "K1 crash games"
+                                            ],
+                      "technical":  {
+                                        "titles":  49,
+                                        "descriptions":  49,
+                                        "canonicals":  49,
+                                        "h1":  49,
+                                        "schema":  74,
+                                        "viewport":  49,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1gamebonus.com",
+                      "scope":  "P1",
+                      "domain":  "k1gamebonus.com",
+                      "brand":  "K1 Game Bonus",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 safety review, real-or-fake and scam-risk authority site",
+                      "pagesProject":  "https://k1gamebonus.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1gamebonus.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  48,
+                      "sitemapUrlCount":  49,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/contact/",
+                                             "/faq/",
+                                             "/guides/apk-mirror-warning-signs/",
+                                             "/guides/bonus-claim-risks/",
+                                             "/guides/bonus-code-expired/",
+                                             "/guides/bonus-safety-review-center/"
+                                         ],
+                      "primaryKeywords":  "is K1 game real, is K1 game safe, is K1 game real or fake",
+                      "secondaryKeywords":  [
+                                                "K1 game review Pakistan",
+                                                "K1 game scam red flags",
+                                                "K1 bonus safety",
+                                                "K1 safe source checklist"
+                                            ],
+                      "technical":  {
+                                        "titles":  48,
+                                        "descriptions":  48,
+                                        "canonicals":  48,
+                                        "h1":  48,
+                                        "schema":  69,
+                                        "viewport":  48,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1gamehubpk.com",
+                      "scope":  "P1",
+                      "domain":  "k1gamehubpk.com",
+                      "brand":  "K1 Game Hub PK",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "Roman Urdu K1 help center for Pakistan mobile users",
+                      "pagesProject":  "https://k1gamehubpk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1gamehubpk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  48,
+                      "sitemapUrlCount":  49,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/contact/",
+                                             "/download-kaise-kare/",
+                                             "/faq/",
+                                             "/guides/account-banana/",
+                                             "/guides/account-verify-kaise-kare/",
+                                             "/guides/app-download-nahi-ho-rahi/"
+                                         ],
+                      "primaryKeywords":  "K1 game kaise use kare, K1 game Pakistan Roman Urdu",
+                      "secondaryKeywords":  [
+                                                "K1 game download kaise kare",
+                                                "K1 game login kaise kare",
+                                                "K1 game se paisa kaise nikale",
+                                                "K1 OTP masla"
+                                            ],
+                      "technical":  {
+                                        "titles":  48,
+                                        "descriptions":  48,
+                                        "canonicals":  48,
+                                        "h1":  48,
+                                        "schema":  70,
+                                        "viewport":  48,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pkhub.com",
+                      "scope":  "P1",
+                      "domain":  "k1pkhub.com",
+                      "brand":  "K1 PK Hub",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 agent, referral, invitation and bonus-code notes site",
+                      "pagesProject":  "https://k1pkhub.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pkhub.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  49,
+                      "sitemapUrlCount":  50,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  34,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/agent-program/",
+                                             "/bonus-terms/",
+                                             "/contact/",
+                                             "/faq/",
+                                             "/guides/agent-code-vs-referral-code/",
+                                             "/guides/agent-contact-verification/"
+                                         ],
+                      "primaryKeywords":  "agents K1, agent K1, K1 game bonus code",
+                      "secondaryKeywords":  [
+                                                "K1 agent code",
+                                                "K1 referral code",
+                                                "K1 invitation code",
+                                                "agents K1 Pakistan"
+                                            ],
+                      "technical":  {
+                                        "titles":  49,
+                                        "descriptions":  49,
+                                        "canonicals":  49,
+                                        "h1":  49,
+                                        "schema":  73,
+                                        "viewport":  49,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1bonuspk.com",
+                      "scope":  "P1",
+                      "domain":  "k1bonuspk.com",
+                      "brand":  "K1 Bonus PK",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 troubleshooting, app crash, not opening and login-error fix center",
+                      "pagesProject":  "https://k1bonuspk.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1bonuspk.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  48,
+                      "sitemapUrlCount":  49,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/app-crash/",
+                                             "/contact/",
+                                             "/faq/",
+                                             "/guides/app-closes-after-permission/",
+                                             "/guides/app-crash-fix/",
+                                             "/guides/app-freezes-after-login/"
+                                         ],
+                      "primaryKeywords":  "K1 game not working, K1 game app crash, K1 game not opening",
+                      "secondaryKeywords":  [
+                                                "K1 login error",
+                                                "K1 OTP problem",
+                                                "K1 support evidence",
+                                                "K1 app fix Pakistan"
+                                            ],
+                      "technical":  {
+                                        "titles":  48,
+                                        "descriptions":  48,
+                                        "canonicals":  48,
+                                        "h1":  48,
+                                        "schema":  70,
+                                        "viewport":  48,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
+                                 ]
+                  },
+                  {
+                      "id":  "PK-P1-k1pkonline.com",
+                      "scope":  "P1",
+                      "domain":  "k1pkonline.com",
+                      "brand":  "K1 PK Online",
+                      "templateId":  "PK-manifest",
+                      "contentDirection":  "K1 alternatives, official-link comparison and feature-matrix site",
+                      "pagesProject":  "https://k1pkonline.com/seo-manifest.json",
+                      "gsc":  "pending",
+                      "gscPropertyType":  "url-prefix",
+                      "gscSiteUrl":  "https://k1pkonline.com/",
+                      "gscSource":  "No reliable data",
+                      "gscUpdatedAt":  "No reliable data",
+                      "sitemapSubmitted":  true,
+                      "sitemapStatus":  "submitted_or_configured",
+                      "indexStatus":  "No reliable search signal yet",
+                      "seo":  "deployed",
+                      "health":  "ok",
+                      "risk":  "high",
+                      "clicks":  0,
+                      "impressions":  0,
+                      "ctr":  0,
+                      "avgPosition":  0,
+                      "pageCount":  48,
+                      "sitemapUrlCount":  49,
+                      "keywordCount":  21,
+                      "contentCalendarCount":  35,
+                      "contentBacklogCount":  52,
+                      "internalLinkCount":  24,
+                      "latestLocalUpdate":  "2026-06-29 00:08",
+                      "latestLocalFile":  "sitemap.xml",
+                      "importantPages":  [
+                                             "/404.html",
+                                             "/about/",
+                                             "/alternatives/",
+                                             "/contact/",
+                                             "/decision-guide/",
+                                             "/faq/",
+                                             "/feature-matrix/",
+                                             "/guides/alternative-faq/"
+                                         ],
+                      "primaryKeywords":  "K1 game alternative, apps like K1 game, K1 game comparison",
+                      "secondaryKeywords":  [
+                                                "K1 official link comparison",
+                                                "K1 game feature matrix",
+                                                "K1 game vs other apps",
+                                                "K1 safe choice checklist"
+                                            ],
+                      "technical":  {
+                                        "titles":  48,
+                                        "descriptions":  48,
+                                        "canonicals":  48,
+                                        "h1":  48,
+                                        "schema":  70,
+                                        "viewport":  48,
+                                        "manifest":  true
+                                    },
+                      "gscSearchSynced":  false,
+                      "nextAction":  "gsc_wait",
+                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "issues":  [
+                                     "gsc_wait"
                                  ]
                   },
                   {
@@ -775,9 +2309,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game download, s9 game download Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 download apk",
+                                                "s9 install unknown app source",
+                                                "s9 download not working after register"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -805,9 +2365,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game apk, s9 APK version Pakistan",
+                      "secondaryKeywords":  [
+                                                "latest s9 apk",
+                                                "s9 apk update failed",
+                                                "s9 apk signature check"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -835,9 +2421,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 withdrawal Pakistan, s9 wallet Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 easypaisa withdrawal pending",
+                                                "s9 withdrawal proof screenshot",
+                                                "s9 jazzcash deposit"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -865,9 +2477,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game login, s9 register Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 password reset otp not received",
+                                                "s9 OTP not received",
+                                                "s9 number already used"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -895,9 +2533,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game Pakistan, s9 game rules",
+                      "secondaryKeywords":  [
+                                                "s9 mines game rules Pakistan",
+                                                "s9 roulette rules Pakistan",
+                                                "s9 blackjack rules Pakistan"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -925,9 +2589,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "is s9 game real, s9 official website Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 official website check Pakistan",
+                                                "s9 scam apk warning",
+                                                "s9 domain safety checklist"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -955,9 +2645,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game kaise download kare, s9 online Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 password bhool gaya",
+                                                "s9 login OTP limit",
+                                                "s9 number already used"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -985,9 +2701,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game bonus, s9 bonus Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 invite code not working",
+                                                "s9 promo code expired",
+                                                "s9 bonus wagering terms"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1015,9 +2757,35 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 app not working, s9 app Pakistan",
+                      "secondaryKeywords":  [
+                                                "s9 app black screen Android",
+                                                "s9 app permission denied",
+                                                "s9 app crash low storage"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1045,331 +2813,37 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
+                      "pageCount":  0,
+                      "sitemapUrlCount":  0,
+                      "keywordCount":  0,
+                      "contentCalendarCount":  0,
+                      "contentBacklogCount":  0,
+                      "internalLinkCount":  0,
+                      "latestLocalUpdate":  "",
+                      "latestLocalFile":  "",
+                      "importantPages":  [
+
+                                         ],
+                      "primaryKeywords":  "s9 game online Pakistan, s9 game alternative",
+                      "secondaryKeywords":  [
+                                                "s9game com pk comparison",
+                                                "s9game cc vs s9 game",
+                                                "s9 vs super s9 game"
+                                            ],
+                      "technical":  {
+                                        "titles":  0,
+                                        "descriptions":  0,
+                                        "canonicals":  0,
+                                        "h1":  0,
+                                        "schema":  0,
+                                        "viewport":  0,
+                                        "manifest":  false
+                                    },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
+                      "updatedAt":  "Local file refresh 2026-06-29",
                       "issues":  [
                                      "gsc_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P1-k1pakistan.com",
-                      "scope":  "P1",
-                      "domain":  "k1pakistan.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 Pakistan authority and brand search hub",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1pakistan.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P1-k1pakistanapp.com",
-                      "scope":  "P1",
-                      "domain":  "k1pakistanapp.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 Pakistan app access and mobile support hub",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1pakistanapp.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P1-k1pkapp.com",
-                      "scope":  "P1",
-                      "domain":  "k1pkapp.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 PK app download and mobile troubleshooting hub",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1pkapp.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P1-k1onlinepk.com",
-                      "scope":  "P1",
-                      "domain":  "k1onlinepk.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 online Pakistan H5 and access guide",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1onlinepk.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P2-k1earningpk.com",
-                      "scope":  "P2",
-                      "domain":  "k1earningpk.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 earning Pakistan guide and user education hub",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1earningpk.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P2-k1gamebonus.com",
-                      "scope":  "P2",
-                      "domain":  "k1gamebonus.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 game bonus guide and offer explanation hub",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1gamebonus.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P2-k1gamehubpk.com",
-                      "scope":  "P2",
-                      "domain":  "k1gamehubpk.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 game hub Pakistan topic cluster and navigation site",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1gamehubpk.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P2-k1pkhub.com",
-                      "scope":  "P2",
-                      "domain":  "k1pkhub.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 Pakistan hub for brand, app and support intent",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1pkhub.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P2-k1bonuspk.com",
-                      "scope":  "P2",
-                      "domain":  "k1bonuspk.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 bonus Pakistan long-tail and FAQ site",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1bonuspk.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
-                                 ]
-                  },
-                  {
-                      "id":  "PK-P2-k1pkonline.com",
-                      "scope":  "P2",
-                      "domain":  "k1pkonline.com",
-                      "brand":  "K1 Pakistan",
-                      "templateId":  "PK-bulk-csv",
-                      "contentDirection":  "K1 PK online access and H5 mobile guide",
-                      "pagesProject":  "incoming/k1-pakistan-sites.csv",
-                      "gsc":  "pending",
-                      "gscPropertyType":  "url-prefix",
-                      "gscSiteUrl":  "https://k1pkonline.com/",
-                      "gscSource":  "No reliable data",
-                      "gscUpdatedAt":  "No reliable data",
-                      "sitemapSubmitted":  true,
-                      "sitemapStatus":  "submitted_or_configured",
-                      "indexStatus":  "No reliable search signal yet",
-                      "seo":  "deployed",
-                      "health":  "ok",
-                      "risk":  "high",
-                      "clicks":  0,
-                      "impressions":  0,
-                      "ctr":  0,
-                      "avgPosition":  0,
-                      "gscSearchSynced":  false,
-                      "nextAction":  "register_missing, gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-27",
-                      "issues":  [
-                                     "register_missing",
-                                     "gsc_wait",
-                                     "manifest_wait"
                                  ]
                   }
               ]
