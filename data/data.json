@@ -1,7 +1,7 @@
 {
     "meta":  {
                  "title":  "SEO Command Center",
-                 "generatedAt":  "2026-06-28T15:14:35.4034272Z",
+                 "generatedAt":  "2026-07-10T09:23:07.5661882Z",
                  "timezone":  "Asia/Tokyo",
                  "mode":  "static-first-dashboard",
                  "notes":  [
@@ -38,7 +38,7 @@
                    "plan":  "GitHub Pages / static dashboard",
                    "source":  "local-refresh-script",
                    "realtime":  false,
-                   "snapshotCapturedAt":  "2026-06-28T15:14:35.4645894Z",
+                   "snapshotCapturedAt":  "2026-07-10T09:23:07.6182484Z",
                    "apiRequired":  "GSC API, GA4 API and optional Cloudflare Analytics proxy for full automation",
                    "includedRequestsMonthly":  0,
                    "requestsThisMonth":  0,
@@ -64,7 +64,7 @@
                                                      "label":  "snapshot_connected",
                                                      "realtime":  false,
                                                      "source":  "gsc-daily-self-check-2026-06-26.csv",
-                                                     "capturedAt":  "2026-06-28T15:14:35.4645894Z",
+                                                     "capturedAt":  "2026-07-10T09:23:07.6182484Z",
                                                      "syncedSites":  5,
                                                      "errors":  20,
                                                      "clicks":  9,
@@ -79,10 +79,10 @@
                                            }
                       },
     "gscSearchAnalytics":  {
-                               "generatedAt":  "2026-06-28T15:14:35.4645894Z",
+                               "generatedAt":  "2026-07-10T09:23:07.6182484Z",
                                "range":  {
-                                             "startDate":  "2026-06-29",
-                                             "endDate":  "2026-06-29",
+                                             "startDate":  "2026-07-10",
+                                             "endDate":  "2026-07-10",
                                              "days":  1
                                          },
                                "summary":  {
@@ -427,7 +427,7 @@
                                           ]
                            },
     "k1Monitor":  {
-                      "generatedAt":  "2026-06-28T15:14:35.5524422Z",
+                      "generatedAt":  "2026-07-10T09:23:07.6963361Z",
                       "sites":  [
                                     {
                                         "id":  "PK-P1-k1pakistan.com",
@@ -455,11 +455,11 @@
                                         "pageCount":  49,
                                         "sitemapUrlCount":  50,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -482,13 +482,13 @@
                                                           "descriptions":  49,
                                                           "canonicals":  49,
                                                           "h1":  49,
-                                                          "schema":  75,
+                                                          "schema":  90,
                                                           "viewport":  49,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -519,11 +519,11 @@
                                         "pageCount":  50,
                                         "sitemapUrlCount":  51,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -546,13 +546,13 @@
                                                           "descriptions":  50,
                                                           "canonicals":  50,
                                                           "h1":  50,
-                                                          "schema":  76,
+                                                          "schema":  91,
                                                           "viewport":  50,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -580,14 +580,14 @@
                                         "impressions":  0,
                                         "ctr":  0,
                                         "avgPosition":  0,
-                                        "pageCount":  50,
-                                        "sitemapUrlCount":  51,
+                                        "pageCount":  51,
+                                        "sitemapUrlCount":  52,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -606,17 +606,17 @@
                                                                   "K1 changelog"
                                                               ],
                                         "technical":  {
-                                                          "titles":  50,
-                                                          "descriptions":  50,
-                                                          "canonicals":  50,
-                                                          "h1":  50,
-                                                          "schema":  76,
-                                                          "viewport":  50,
+                                                          "titles":  51,
+                                                          "descriptions":  51,
+                                                          "canonicals":  51,
+                                                          "h1":  51,
+                                                          "schema":  93,
+                                                          "viewport":  51,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -645,13 +645,13 @@
                                         "ctr":  0,
                                         "avgPosition":  0,
                                         "pageCount":  46,
-                                        "sitemapUrlCount":  49,
+                                        "sitemapUrlCount":  47,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -674,13 +674,13 @@
                                                           "descriptions":  46,
                                                           "canonicals":  46,
                                                           "h1":  46,
-                                                          "schema":  68,
+                                                          "schema":  84,
                                                           "viewport":  46,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -711,11 +711,11 @@
                                         "pageCount":  49,
                                         "sitemapUrlCount":  50,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "feed.xml",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -738,13 +738,13 @@
                                                           "descriptions":  49,
                                                           "canonicals":  49,
                                                           "h1":  49,
-                                                          "schema":  74,
+                                                          "schema":  90,
                                                           "viewport":  49,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -775,11 +775,11 @@
                                         "pageCount":  48,
                                         "sitemapUrlCount":  49,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -802,13 +802,13 @@
                                                           "descriptions":  48,
                                                           "canonicals":  48,
                                                           "h1":  48,
-                                                          "schema":  69,
+                                                          "schema":  85,
                                                           "viewport":  48,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -839,11 +839,11 @@
                                         "pageCount":  48,
                                         "sitemapUrlCount":  49,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -866,13 +866,13 @@
                                                           "descriptions":  48,
                                                           "canonicals":  48,
                                                           "h1":  48,
-                                                          "schema":  70,
+                                                          "schema":  86,
                                                           "viewport":  48,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -903,11 +903,11 @@
                                         "pageCount":  49,
                                         "sitemapUrlCount":  50,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  34,
+                                        "contentCalendarCount":  36,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "feed.xml",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -930,13 +930,13 @@
                                                           "descriptions":  49,
                                                           "canonicals":  49,
                                                           "h1":  49,
-                                                          "schema":  73,
+                                                          "schema":  89,
                                                           "viewport":  49,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -967,11 +967,11 @@
                                         "pageCount":  48,
                                         "sitemapUrlCount":  49,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "feed.xml",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -994,13 +994,13 @@
                                                           "descriptions":  48,
                                                           "canonicals":  48,
                                                           "h1":  48,
-                                                          "schema":  70,
+                                                          "schema":  86,
                                                           "viewport":  48,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1031,11 +1031,11 @@
                                         "pageCount":  48,
                                         "sitemapUrlCount":  49,
                                         "keywordCount":  21,
-                                        "contentCalendarCount":  35,
+                                        "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-06-29 00:08",
-                                        "latestLocalFile":  "sitemap.xml",
+                                        "latestLocalUpdate":  "2026-07-10 14:05",
+                                        "latestLocalFile":  "index.html",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -1058,13 +1058,13 @@
                                                           "descriptions":  48,
                                                           "canonicals":  48,
                                                           "h1":  48,
-                                                          "schema":  70,
+                                                          "schema":  86,
                                                           "viewport":  48,
                                                           "manifest":  true
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-06-29",
+                                        "updatedAt":  "Local file refresh 2026-07-10",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1072,8 +1072,8 @@
                                 ],
                       "summary":  {
                                       "sites":  10,
-                                      "pages":  485,
-                                      "sitemapUrls":  497,
+                                      "pages":  486,
+                                      "sitemapUrls":  496,
                                       "keywords":  210,
                                       "reliableGscSites":  0
                                   }
@@ -1108,7 +1108,7 @@
                                                             "complete":  5,
                                                             "sitemapComplete":  25,
                                                             "source":  "local-refresh",
-                                                            "generatedAt":  "2026-06-28T15:14:35.9782644Z"
+                                                            "generatedAt":  "2026-07-10T09:23:08.0395237Z"
                                                         }
                                           }
                       },
@@ -1349,14 +1349,14 @@
                       "impressions":  30,
                       "ctr":  0.133,
                       "avgPosition":  4.3,
-                      "pageCount":  44,
-                      "sitemapUrlCount":  42,
+                      "pageCount":  46,
+                      "sitemapUrlCount":  44,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-06-28 23:54",
-                      "latestLocalFile":  "index.html",
+                      "latestLocalUpdate":  "2026-07-10 12:08",
+                      "latestLocalFile":  "seo-manifest.json",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1375,17 +1375,17 @@
                                                 "B9game support Pakistan"
                                             ],
                       "technical":  {
-                                        "titles":  44,
-                                        "descriptions":  44,
-                                        "canonicals":  44,
-                                        "h1":  44,
-                                        "schema":  137,
-                                        "viewport":  44,
+                                        "titles":  46,
+                                        "descriptions":  46,
+                                        "canonicals":  46,
+                                        "h1":  46,
+                                        "schema":  144,
+                                        "viewport":  46,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -1413,14 +1413,14 @@
                       "impressions":  49,
                       "ctr":  0.102,
                       "avgPosition":  5.7,
-                      "pageCount":  43,
-                      "sitemapUrlCount":  42,
+                      "pageCount":  45,
+                      "sitemapUrlCount":  44,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-06-28 23:54",
-                      "latestLocalFile":  "index.html",
+                      "latestLocalUpdate":  "2026-07-10 12:08",
+                      "latestLocalFile":  "submit-urls-2026-07-10.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1439,17 +1439,17 @@
                                                 "B9 H5 games"
                                             ],
                       "technical":  {
-                                        "titles":  43,
-                                        "descriptions":  43,
-                                        "canonicals":  43,
-                                        "h1":  43,
-                                        "schema":  133,
-                                        "viewport":  43,
+                                        "titles":  45,
+                                        "descriptions":  45,
+                                        "canonicals":  45,
+                                        "h1":  45,
+                                        "schema":  139,
+                                        "viewport":  45,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -1477,14 +1477,14 @@
                       "impressions":  2,
                       "ctr":  0,
                       "avgPosition":  1.5,
-                      "pageCount":  45,
-                      "sitemapUrlCount":  44,
+                      "pageCount":  47,
+                      "sitemapUrlCount":  46,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-06-28 23:54",
-                      "latestLocalFile":  "index.html",
+                      "latestLocalUpdate":  "2026-07-10 12:08",
+                      "latestLocalFile":  "content-quality.json",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1503,17 +1503,17 @@
                                                 "B9game app not installing"
                                             ],
                       "technical":  {
-                                        "titles":  45,
-                                        "descriptions":  45,
-                                        "canonicals":  45,
-                                        "h1":  45,
-                                        "schema":  173,
-                                        "viewport":  45,
+                                        "titles":  47,
+                                        "descriptions":  47,
+                                        "canonicals":  47,
+                                        "h1":  47,
+                                        "schema":  179,
+                                        "viewport":  47,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -1541,14 +1541,14 @@
                       "impressions":  22,
                       "ctr":  0,
                       "avgPosition":  10,
-                      "pageCount":  43,
-                      "sitemapUrlCount":  42,
+                      "pageCount":  45,
+                      "sitemapUrlCount":  44,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-06-28 23:54",
-                      "latestLocalFile":  "index.html",
+                      "latestLocalUpdate":  "2026-07-10 12:08",
+                      "latestLocalFile":  "submit-urls-2026-07-10.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1567,17 +1567,17 @@
                                                 "B9game payment checklist"
                                             ],
                       "technical":  {
-                                        "titles":  43,
-                                        "descriptions":  43,
-                                        "canonicals":  43,
-                                        "h1":  43,
-                                        "schema":  147,
-                                        "viewport":  43,
+                                        "titles":  45,
+                                        "descriptions":  45,
+                                        "canonicals":  45,
+                                        "h1":  45,
+                                        "schema":  153,
+                                        "viewport":  45,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -1605,14 +1605,14 @@
                       "impressions":  1,
                       "ctr":  0,
                       "avgPosition":  1,
-                      "pageCount":  45,
-                      "sitemapUrlCount":  44,
+                      "pageCount":  47,
+                      "sitemapUrlCount":  46,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-06-28 23:54",
-                      "latestLocalFile":  "index.html",
+                      "latestLocalUpdate":  "2026-07-10 12:08",
+                      "latestLocalFile":  "seo-manifest.json",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1631,17 +1631,17 @@
                                                 "B9game low storage APK install"
                                             ],
                       "technical":  {
-                                        "titles":  45,
-                                        "descriptions":  45,
-                                        "canonicals":  45,
-                                        "h1":  45,
-                                        "schema":  163,
-                                        "viewport":  45,
+                                        "titles":  47,
+                                        "descriptions":  47,
+                                        "canonicals":  47,
+                                        "h1":  47,
+                                        "schema":  169,
+                                        "viewport":  47,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  true,
                       "nextAction":  "manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "manifest_wait"
                                  ]
@@ -1672,11 +1672,11 @@
                       "pageCount":  49,
                       "sitemapUrlCount":  50,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1699,13 +1699,13 @@
                                         "descriptions":  49,
                                         "canonicals":  49,
                                         "h1":  49,
-                                        "schema":  75,
+                                        "schema":  90,
                                         "viewport":  49,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1736,11 +1736,11 @@
                       "pageCount":  50,
                       "sitemapUrlCount":  51,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1763,13 +1763,13 @@
                                         "descriptions":  50,
                                         "canonicals":  50,
                                         "h1":  50,
-                                        "schema":  76,
+                                        "schema":  91,
                                         "viewport":  50,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1797,14 +1797,14 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
-                      "pageCount":  50,
-                      "sitemapUrlCount":  51,
+                      "pageCount":  51,
+                      "sitemapUrlCount":  52,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1823,17 +1823,17 @@
                                                 "K1 changelog"
                                             ],
                       "technical":  {
-                                        "titles":  50,
-                                        "descriptions":  50,
-                                        "canonicals":  50,
-                                        "h1":  50,
-                                        "schema":  76,
-                                        "viewport":  50,
+                                        "titles":  51,
+                                        "descriptions":  51,
+                                        "canonicals":  51,
+                                        "h1":  51,
+                                        "schema":  93,
+                                        "viewport":  51,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1862,13 +1862,13 @@
                       "ctr":  0,
                       "avgPosition":  0,
                       "pageCount":  46,
-                      "sitemapUrlCount":  49,
+                      "sitemapUrlCount":  47,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1891,13 +1891,13 @@
                                         "descriptions":  46,
                                         "canonicals":  46,
                                         "h1":  46,
-                                        "schema":  68,
+                                        "schema":  84,
                                         "viewport":  46,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1928,11 +1928,11 @@
                       "pageCount":  49,
                       "sitemapUrlCount":  50,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "feed.xml",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1955,13 +1955,13 @@
                                         "descriptions":  49,
                                         "canonicals":  49,
                                         "h1":  49,
-                                        "schema":  74,
+                                        "schema":  90,
                                         "viewport":  49,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1992,11 +1992,11 @@
                       "pageCount":  48,
                       "sitemapUrlCount":  49,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -2019,13 +2019,13 @@
                                         "descriptions":  48,
                                         "canonicals":  48,
                                         "h1":  48,
-                                        "schema":  69,
+                                        "schema":  85,
                                         "viewport":  48,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2056,11 +2056,11 @@
                       "pageCount":  48,
                       "sitemapUrlCount":  49,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -2083,13 +2083,13 @@
                                         "descriptions":  48,
                                         "canonicals":  48,
                                         "h1":  48,
-                                        "schema":  70,
+                                        "schema":  86,
                                         "viewport":  48,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2120,11 +2120,11 @@
                       "pageCount":  49,
                       "sitemapUrlCount":  50,
                       "keywordCount":  21,
-                      "contentCalendarCount":  34,
+                      "contentCalendarCount":  36,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "feed.xml",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -2147,13 +2147,13 @@
                                         "descriptions":  49,
                                         "canonicals":  49,
                                         "h1":  49,
-                                        "schema":  73,
+                                        "schema":  89,
                                         "viewport":  49,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2184,11 +2184,11 @@
                       "pageCount":  48,
                       "sitemapUrlCount":  49,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "feed.xml",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -2211,13 +2211,13 @@
                                         "descriptions":  48,
                                         "canonicals":  48,
                                         "h1":  48,
-                                        "schema":  70,
+                                        "schema":  86,
                                         "viewport":  48,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2248,11 +2248,11 @@
                       "pageCount":  48,
                       "sitemapUrlCount":  49,
                       "keywordCount":  21,
-                      "contentCalendarCount":  35,
+                      "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-06-29 00:08",
-                      "latestLocalFile":  "sitemap.xml",
+                      "latestLocalUpdate":  "2026-07-10 14:05",
+                      "latestLocalFile":  "index.html",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -2275,13 +2275,13 @@
                                         "descriptions":  48,
                                         "canonicals":  48,
                                         "h1":  48,
-                                        "schema":  70,
+                                        "schema":  86,
                                         "viewport":  48,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2337,7 +2337,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2393,7 +2393,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2449,7 +2449,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2505,7 +2505,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2561,7 +2561,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2617,7 +2617,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2673,7 +2673,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2729,7 +2729,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2785,7 +2785,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2841,7 +2841,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-06-29",
+                      "updatedAt":  "Local file refresh 2026-07-10",
                       "issues":  [
                                      "gsc_wait"
                                  ]
