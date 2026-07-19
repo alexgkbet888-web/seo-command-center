@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-06-27 16:09 Asia/Tokyo",
+    "generatedAt":  "2026-07-19 13:17 Asia/Tokyo",
     "manifests":  [
                       {
                           "sourceUrl":  "https://b9pakistan.com/seo-manifest.json",
@@ -56,7 +56,7 @@
                                                                             ],
                                                                "weeklyUpdateTarget":  3
                                                            },
-                                           "lastUpdated":  "2026-06-27",
+                                           "lastUpdated":  "2026-07-16",
                                            "domain":  "b9pakistan.com",
                                            "brand":  "B9 Pakistan",
                                            "batch":  "P1",
@@ -118,7 +118,7 @@
                                                                             ],
                                                                "weeklyUpdateTarget":  3
                                                            },
-                                           "lastUpdated":  "2026-06-27",
+                                           "lastUpdated":  "2026-07-16",
                                            "domain":  "b9gameonlinepk.com",
                                            "brand":  "B9 Pakistan",
                                            "batch":  "P1",
@@ -180,7 +180,7 @@
                                                                             ],
                                                                "weeklyUpdateTarget":  3
                                                            },
-                                           "lastUpdated":  "2026-06-27",
+                                           "lastUpdated":  "2026-07-16",
                                            "domain":  "b9downloadpk.com",
                                            "brand":  "B9 Pakistan",
                                            "batch":  "P1",
@@ -242,7 +242,7 @@
                                                                             ],
                                                                "weeklyUpdateTarget":  3
                                                            },
-                                           "lastUpdated":  "2026-06-27",
+                                           "lastUpdated":  "2026-07-16",
                                            "domain":  "b9pakistanapp.com",
                                            "brand":  "B9 Pakistan",
                                            "batch":  "P2",
@@ -304,11 +304,478 @@
                                                                             ],
                                                                "weeklyUpdateTarget":  3
                                                            },
-                                           "lastUpdated":  "2026-06-27",
+                                           "lastUpdated":  "2026-07-16",
                                            "domain":  "b9pakistanapk.com",
                                            "brand":  "B9 Pakistan",
                                            "batch":  "P2",
                                            "owner":  "core-team"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1pakistan.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1pakistan.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 Game download authority site for Pakistan Android users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game download",
+                                                                   "K1 Pakistan",
+                                                                   "K 1 download"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game APK",
+                                                                     "K1 game download Pakistan",
+                                                                     "K1 game download Android",
+                                                                     "K1 APK install"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1pakistan.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1pakistan.com/robots.txt",
+                                                             "feedUrl":  "https://k1pakistan.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1pakistan.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1pakistan.com",
+                                           "brand":  "K1 Pakistan",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1pakistanapp.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1pakistanapp.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 login, OTP, password and account-access help site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 login",
+                                                                   "K1Login",
+                                                                   "K1 app login"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 login password",
+                                                                     "K1 game login",
+                                                                     "K1 OTP not received",
+                                                                     "K1 register Pakistan"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1pakistanapp.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1pakistanapp.com/robots.txt",
+                                                             "feedUrl":  "https://k1pakistanapp.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  true,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1pakistanapp.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1pakistanapp.com",
+                                           "brand":  "K1 Pakistan App",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1pkapp.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1pkapp.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 latest version, APK update and changelog tracker",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 update",
+                                                                   "K1 game latest version"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game news and updates",
+                                                                     "K1 update latest version",
+                                                                     "K1 APK version check",
+                                                                     "K1 changelog"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1pkapp.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1pkapp.com/robots.txt",
+                                                             "feedUrl":  "https://k1pkapp.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1pkapp.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1pkapp.com",
+                                           "brand":  "K1 PK App",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1onlinepk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1onlinepk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 Pakistan wallet, withdrawal, deposit and support guide",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K-1 support",
+                                                                   "K1 support",
+                                                                   "K1 wallet Pakistan"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 withdrawal pending",
+                                                                     "K1 JazzCash deposit",
+                                                                     "K1 Easypaisa withdrawal",
+                                                                     "K1 payment support"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1onlinepk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1onlinepk.com/robots.txt",
+                                                             "feedUrl":  "https://k1onlinepk.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1onlinepk.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1onlinepk.com",
+                                           "brand":  "K1 Online PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1earningpk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1earningpk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 game library, earning app and game-mode guide site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 fishing",
+                                                                   "K1 game earning app"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 fishing game guide",
+                                                                     "K1 teen patti guide",
+                                                                     "K1 mines guide",
+                                                                     "K1 crash games"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1earningpk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1earningpk.com/robots.txt",
+                                                             "feedUrl":  "https://k1earningpk.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1earningpk.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1earningpk.com",
+                                           "brand":  "K1 Earning PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1gamebonus.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1gamebonus.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 safety review, real-or-fake and scam-risk authority site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "is K1 game real",
+                                                                   "is K1 game safe",
+                                                                   "is K1 game real or fake"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game review Pakistan",
+                                                                     "K1 game scam red flags",
+                                                                     "K1 bonus safety",
+                                                                     "K1 safe source checklist"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1gamebonus.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1gamebonus.com/robots.txt",
+                                                             "feedUrl":  "https://k1gamebonus.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1gamebonus.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1gamebonus.com",
+                                           "brand":  "K1 Game Bonus",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1gamehubpk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1gamehubpk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "Roman Urdu K1 help center for Pakistan mobile users",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game kaise use kare",
+                                                                   "K1 game Pakistan Roman Urdu"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 game download kaise kare",
+                                                                     "K1 game login kaise kare",
+                                                                     "K1 game se paisa kaise nikale",
+                                                                     "K1 OTP masla"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1gamehubpk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1gamehubpk.com/robots.txt",
+                                                             "feedUrl":  "https://k1gamehubpk.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1gamehubpk.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1gamehubpk.com",
+                                           "brand":  "K1 Game Hub PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1pkhub.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1pkhub.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 agent, referral, invitation and bonus-code notes site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "agents K1",
+                                                                   "agent K1",
+                                                                   "K1 game bonus code"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 agent code",
+                                                                     "K1 referral code",
+                                                                     "K1 invitation code",
+                                                                     "agents K1 Pakistan"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1pkhub.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1pkhub.com/robots.txt",
+                                                             "feedUrl":  "https://k1pkhub.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1pkhub.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1pkhub.com",
+                                           "brand":  "K1 PK Hub",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1bonuspk.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1bonuspk.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 troubleshooting, app crash, not opening and login-error fix center",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game not working",
+                                                                   "K1 game app crash",
+                                                                   "K1 game not opening"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 login error",
+                                                                     "K1 OTP problem",
+                                                                     "K1 support evidence",
+                                                                     "K1 app fix Pakistan"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1bonuspk.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1bonuspk.com/robots.txt",
+                                                             "feedUrl":  "https://k1bonuspk.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1bonuspk.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1bonuspk.com",
+                                           "brand":  "K1 Bonus PK",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
+                                       }
+                      },
+                      {
+                          "sourceUrl":  "https://k1pkonline.com/seo-manifest.json",
+                          "status":  "ok",
+                          "manifest":  {
+                                           "schemaVersion":  "1.0",
+                                           "market":  "Pakistan",
+                                           "language":  "en-PK",
+                                           "deployUrl":  "https://k1pkonline.com/",
+                                           "siteType":  "authority",
+                                           "positioning":  "K1 alternatives, official-link comparison and feature-matrix site",
+                                           "status":  "active",
+                                           "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+                                           "primaryKeywords":  [
+                                                                   "K1 game alternative",
+                                                                   "apps like K1 game",
+                                                                   "K1 game comparison"
+                                                               ],
+                                           "secondaryKeywords":  [
+                                                                     "K1 official link comparison",
+                                                                     "K1 game feature matrix",
+                                                                     "K1 game vs other apps",
+                                                                     "K1 safe choice checklist"
+                                                                 ],
+                                           "technical":  {
+                                                             "sitemapUrl":  "https://k1pkonline.com/sitemap.xml",
+                                                             "robotsUrl":  "https://k1pkonline.com/robots.txt",
+                                                             "feedUrl":  "https://k1pkonline.com/feed.xml",
+                                                             "hasH5Responsive":  true,
+                                                             "hasRegisterCta":  true,
+                                                             "hasLoginLink":  false,
+                                                             "hasLotteryDirection":  false
+                                                         },
+                                           "gsc":  {
+                                                       "property":  "sc-domain:k1pkonline.com",
+                                                       "connected":  true
+                                                   },
+                                           "monitoring":  {
+                                                              "source":  "local-generated",
+                                                              "generatedAt":  "2026-06-28",
+                                                              "evidencePolicy":  "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+                                                          },
+                                           "domain":  "k1pkonline.com",
+                                           "brand":  "K1 PK Online",
+                                           "batch":  "K1-P1",
+                                           "owner":  "alexgkbet888-web"
                                        }
                       },
                       {

@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-06-29 00:14 Asia/Tokyo",
+    "generatedAt":  "2026-07-19 13:17 Asia/Tokyo",
     "sourcesFile":  "C:\\Users\\dream\\Documents\\网站对比分析\\outputs\\b9-traffic-cockpit\\integration\\manifest-sources.csv",
     "incomingCsvFiles":  [
                              "incoming/k1-pakistan-sites.csv",
@@ -191,43 +191,9 @@
                            "message":  "Duplicate site profile ignored; first source kept to avoid accidental status/register override."
                        }
                    ],
-    "warningCount":  5,
+    "warningCount":  0,
     "warnings":  [
-                     {
-                         "sourceUrl":  "https://b9pakistan.com/seo-manifest.json",
-                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9pakistan.com\\seo-manifest.json",
-                         "domain":  "b9pakistan.com",
-                         "status":  "fallback",
-                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
-                     },
-                     {
-                         "sourceUrl":  "https://b9gameonlinepk.com/seo-manifest.json",
-                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9gameonlinepk.com\\seo-manifest.json",
-                         "domain":  "b9gameonlinepk.com",
-                         "status":  "fallback",
-                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
-                     },
-                     {
-                         "sourceUrl":  "https://b9downloadpk.com/seo-manifest.json",
-                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9downloadpk.com\\seo-manifest.json",
-                         "domain":  "b9downloadpk.com",
-                         "status":  "fallback",
-                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
-                     },
-                     {
-                         "sourceUrl":  "https://b9pakistanapp.com/seo-manifest.json",
-                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9pakistanapp.com\\seo-manifest.json",
-                         "domain":  "b9pakistanapp.com",
-                         "status":  "fallback",
-                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
-                     },
-                     {
-                         "sourceUrl":  "https://b9pakistanapk.com/seo-manifest.json",
-                         "fallbackSource":  "local/outputs\\github-push-worktrees\\b9pakistanapk.com\\seo-manifest.json",
-                         "domain":  "b9pakistanapk.com",
-                         "status":  "fallback",
-                         "message":  "Remote manifest failed; local manifest fallback used. Remote error: Invalid JSON primitive: ."
-                     }
+
                  ],
     "errorCount":  0,
     "errors":  [
