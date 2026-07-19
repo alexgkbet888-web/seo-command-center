@@ -1,7 +1,7 @@
 {
     "meta":  {
                  "title":  "SEO Command Center",
-                 "generatedAt":  "2026-07-19T04:16:21.0841255Z",
+                 "generatedAt":  "2026-07-19T04:40:40.4150924Z",
                  "timezone":  "Asia/Tokyo",
                  "mode":  "static-first-dashboard",
                  "notes":  [
@@ -38,7 +38,7 @@
                    "plan":  "GitHub Pages / static dashboard",
                    "source":  "local-refresh-script",
                    "realtime":  false,
-                   "snapshotCapturedAt":  "2026-07-19T04:16:21.1314645Z",
+                   "snapshotCapturedAt":  "2026-07-19T04:40:40.4730920Z",
                    "apiRequired":  "GSC API, GA4 API and optional Cloudflare Analytics proxy for full automation",
                    "includedRequestsMonthly":  0,
                    "requestsThisMonth":  0,
@@ -64,7 +64,7 @@
                                                      "label":  "not_read",
                                                      "realtime":  false,
                                                      "source":  "No GSC CSV found",
-                                                     "capturedAt":  "2026-07-19T04:16:21.1314645Z",
+                                                     "capturedAt":  "2026-07-19T04:40:40.4730920Z",
                                                      "syncedSites":  0,
                                                      "errors":  25,
                                                      "clicks":  0,
@@ -79,7 +79,7 @@
                                            }
                       },
     "gscSearchAnalytics":  {
-                               "generatedAt":  "2026-07-19T04:16:21.1314645Z",
+                               "generatedAt":  "2026-07-19T04:40:40.4730920Z",
                                "range":  {
                                              "startDate":  "2026-07-19",
                                              "endDate":  "2026-07-19",
@@ -452,7 +452,7 @@
                                           ]
                            },
     "k1Monitor":  {
-                      "generatedAt":  "2026-07-19T04:16:21.2101247Z",
+                      "generatedAt":  "2026-07-19T04:40:40.5627409Z",
                       "sites":  [
                                     {
                                         "id":  "PK-P1-k1pakistan.com",
@@ -483,8 +483,8 @@
                                         "contentCalendarCount":  37,
                                         "contentBacklogCount":  52,
                                         "internalLinkCount":  24,
-                                        "latestLocalUpdate":  "2026-07-12 20:53",
-                                        "latestLocalFile":  "feed.xml",
+                                        "latestLocalUpdate":  "2026-07-19 13:21",
+                                        "latestLocalFile":  "styles.css",
                                         "importantPages":  [
                                                                "/404.html",
                                                                "/about/",
@@ -1133,7 +1133,7 @@
                                                             "complete":  0,
                                                             "sitemapComplete":  25,
                                                             "source":  "local-refresh",
-                                                            "generatedAt":  "2026-07-19T04:16:21.6201935Z"
+                                                            "generatedAt":  "2026-07-19T04:40:41.0222101Z"
                                                         }
                                           }
                       },
@@ -1705,8 +1705,8 @@
                       "contentCalendarCount":  37,
                       "contentBacklogCount":  52,
                       "internalLinkCount":  24,
-                      "latestLocalUpdate":  "2026-07-12 20:53",
-                      "latestLocalFile":  "feed.xml",
+                      "latestLocalUpdate":  "2026-07-19 13:21",
+                      "latestLocalFile":  "styles.css",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
