@@ -1,7 +1,7 @@
 {
     "meta":  {
                  "title":  "SEO Command Center",
-                 "generatedAt":  "2026-07-19T04:40:40.4150924Z",
+                 "generatedAt":  "2026-07-21T03:51:44.3635769Z",
                  "timezone":  "Asia/Tokyo",
                  "mode":  "static-first-dashboard",
                  "notes":  [
@@ -38,7 +38,7 @@
                    "plan":  "GitHub Pages / static dashboard",
                    "source":  "local-refresh-script",
                    "realtime":  false,
-                   "snapshotCapturedAt":  "2026-07-19T04:40:40.4730920Z",
+                   "snapshotCapturedAt":  "2026-07-21T03:51:44.4334775Z",
                    "apiRequired":  "GSC API, GA4 API and optional Cloudflare Analytics proxy for full automation",
                    "includedRequestsMonthly":  0,
                    "requestsThisMonth":  0,
@@ -64,7 +64,7 @@
                                                      "label":  "not_read",
                                                      "realtime":  false,
                                                      "source":  "No GSC CSV found",
-                                                     "capturedAt":  "2026-07-19T04:40:40.4730920Z",
+                                                     "capturedAt":  "2026-07-21T03:51:44.4334775Z",
                                                      "syncedSites":  0,
                                                      "errors":  25,
                                                      "clicks":  0,
@@ -79,10 +79,10 @@
                                            }
                       },
     "gscSearchAnalytics":  {
-                               "generatedAt":  "2026-07-19T04:40:40.4730920Z",
+                               "generatedAt":  "2026-07-21T03:51:44.4334775Z",
                                "range":  {
-                                             "startDate":  "2026-07-19",
-                                             "endDate":  "2026-07-19",
+                                             "startDate":  "2026-07-21",
+                                             "endDate":  "2026-07-21",
                                              "days":  1
                                          },
                                "summary":  {
@@ -452,7 +452,7 @@
                                           ]
                            },
     "k1Monitor":  {
-                      "generatedAt":  "2026-07-19T04:40:40.5627409Z",
+                      "generatedAt":  "2026-07-21T03:51:44.5448422Z",
                       "sites":  [
                                     {
                                         "id":  "PK-P1-k1pakistan.com",
@@ -513,7 +513,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -577,7 +577,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -641,7 +641,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -705,7 +705,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -769,7 +769,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -833,7 +833,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -897,7 +897,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -961,7 +961,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1025,7 +1025,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1089,7 +1089,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-19",
+                                        "updatedAt":  "Local file refresh 2026-07-21",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1133,7 +1133,7 @@
                                                             "complete":  0,
                                                             "sitemapComplete":  25,
                                                             "source":  "local-refresh",
-                                                            "generatedAt":  "2026-07-19T04:40:41.0222101Z"
+                                                            "generatedAt":  "2026-07-21T03:51:45.1441035Z"
                                                         }
                                           }
                       },
@@ -1374,14 +1374,14 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
-                      "pageCount":  47,
-                      "sitemapUrlCount":  45,
+                      "pageCount":  48,
+                      "sitemapUrlCount":  46,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-18 11:44",
-                      "latestLocalFile":  "llms.txt",
+                      "latestLocalUpdate":  "2026-07-21 12:40",
+                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1400,17 +1400,17 @@
                                                 "B9game support Pakistan"
                                             ],
                       "technical":  {
-                                        "titles":  47,
-                                        "descriptions":  47,
-                                        "canonicals":  47,
-                                        "h1":  47,
-                                        "schema":  145,
-                                        "viewport":  47,
+                                        "titles":  48,
+                                        "descriptions":  48,
+                                        "canonicals":  48,
+                                        "h1":  48,
+                                        "schema":  149,
+                                        "viewport":  48,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1439,23 +1439,23 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
-                      "pageCount":  46,
-                      "sitemapUrlCount":  45,
+                      "pageCount":  47,
+                      "sitemapUrlCount":  46,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-18 11:44",
-                      "latestLocalFile":  "llms.txt",
+                      "latestLocalUpdate":  "2026-07-21 12:40",
+                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
                                              "/andar-bahar/",
                                              "/andar-bahar-roman-urdu/",
                                              "/aviator/",
+                                             "/b9-aviator-sports-serp-gap-pakistan/",
                                              "/b9game-cricket-h5-smooth-play-pakistan/",
-                                             "/b9game-cricket-kaise-khele/",
-                                             "/b9game-cricket-live-pakistan/"
+                                             "/b9game-cricket-kaise-khele/"
                                          ],
                       "primaryKeywords":  "B9game, B9Game, b9 online, B9game online Pakistan",
                       "secondaryKeywords":  [
@@ -1465,17 +1465,17 @@
                                                 "B9 H5 games"
                                             ],
                       "technical":  {
-                                        "titles":  46,
-                                        "descriptions":  46,
-                                        "canonicals":  46,
-                                        "h1":  46,
-                                        "schema":  140,
-                                        "viewport":  46,
+                                        "titles":  47,
+                                        "descriptions":  47,
+                                        "canonicals":  47,
+                                        "h1":  47,
+                                        "schema":  143,
+                                        "viewport":  47,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1504,14 +1504,14 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
-                      "pageCount":  48,
-                      "sitemapUrlCount":  47,
+                      "pageCount":  49,
+                      "sitemapUrlCount":  48,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-18 11:44",
-                      "latestLocalFile":  "llms.txt",
+                      "latestLocalUpdate":  "2026-07-21 12:40",
+                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1530,17 +1530,17 @@
                                                 "B9game app not installing"
                                             ],
                       "technical":  {
-                                        "titles":  48,
-                                        "descriptions":  48,
-                                        "canonicals":  48,
-                                        "h1":  48,
-                                        "schema":  180,
-                                        "viewport":  48,
+                                        "titles":  49,
+                                        "descriptions":  49,
+                                        "canonicals":  49,
+                                        "h1":  49,
+                                        "schema":  183,
+                                        "viewport":  49,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1569,23 +1569,23 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
-                      "pageCount":  46,
-                      "sitemapUrlCount":  45,
+                      "pageCount":  47,
+                      "sitemapUrlCount":  46,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-18 11:44",
-                      "latestLocalFile":  "llms.txt",
+                      "latestLocalUpdate":  "2026-07-21 12:40",
+                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
                                              "/app-bonus/",
+                                             "/b9-easypaisa-jazzcash-payment-proof-check/",
                                              "/b9game-easypaisa-payment-proof-pakistan/",
                                              "/b9game-jazzcash-deposit-delay-pakistan/",
                                              "/b9game-jazzcash-deposit-guide/",
-                                             "/b9game-jazzcash-deposit-kaise-kare/",
-                                             "/b9game-jazzcash-easypaisa-payment-checklist/"
+                                             "/b9game-jazzcash-deposit-kaise-kare/"
                                          ],
                       "primaryKeywords":  "B9 payment Pakistan, B9 EasyPaisa, B9 JazzCash, B9 crypto Pakistan",
                       "secondaryKeywords":  [
@@ -1595,17 +1595,17 @@
                                                 "B9game payment checklist"
                                             ],
                       "technical":  {
-                                        "titles":  46,
-                                        "descriptions":  46,
-                                        "canonicals":  46,
-                                        "h1":  46,
-                                        "schema":  155,
-                                        "viewport":  46,
+                                        "titles":  47,
+                                        "descriptions":  47,
+                                        "canonicals":  47,
+                                        "h1":  47,
+                                        "schema":  158,
+                                        "viewport":  47,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1634,14 +1634,14 @@
                       "impressions":  0,
                       "ctr":  0,
                       "avgPosition":  0,
-                      "pageCount":  48,
-                      "sitemapUrlCount":  47,
+                      "pageCount":  49,
+                      "sitemapUrlCount":  48,
                       "keywordCount":  0,
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-18 11:44",
-                      "latestLocalFile":  "llms.txt",
+                      "latestLocalUpdate":  "2026-07-21 12:40",
+                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1660,17 +1660,17 @@
                                                 "B9game low storage APK install"
                                             ],
                       "technical":  {
-                                        "titles":  48,
-                                        "descriptions":  48,
-                                        "canonicals":  48,
-                                        "h1":  48,
-                                        "schema":  171,
-                                        "viewport":  48,
+                                        "titles":  49,
+                                        "descriptions":  49,
+                                        "canonicals":  49,
+                                        "h1":  49,
+                                        "schema":  174,
+                                        "viewport":  49,
                                         "manifest":  true
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1735,7 +1735,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1799,7 +1799,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1863,7 +1863,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1927,7 +1927,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1991,7 +1991,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2055,7 +2055,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2119,7 +2119,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2183,7 +2183,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2247,7 +2247,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2311,7 +2311,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2367,7 +2367,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2423,7 +2423,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2479,7 +2479,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2535,7 +2535,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2591,7 +2591,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2647,7 +2647,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2703,7 +2703,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2759,7 +2759,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2815,7 +2815,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2871,7 +2871,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-19",
+                      "updatedAt":  "Local file refresh 2026-07-21",
                       "issues":  [
                                      "gsc_wait"
                                  ]
