@@ -1,7 +1,7 @@
 {
     "meta":  {
                  "title":  "SEO Command Center",
-                 "generatedAt":  "2026-07-21T03:51:44.3635769Z",
+                 "generatedAt":  "2026-07-24T03:19:13.6471858Z",
                  "timezone":  "Asia/Tokyo",
                  "mode":  "static-first-dashboard",
                  "notes":  [
@@ -38,7 +38,7 @@
                    "plan":  "GitHub Pages / static dashboard",
                    "source":  "local-refresh-script",
                    "realtime":  false,
-                   "snapshotCapturedAt":  "2026-07-21T03:51:44.4334775Z",
+                   "snapshotCapturedAt":  "2026-07-24T03:19:13.7443797Z",
                    "apiRequired":  "GSC API, GA4 API and optional Cloudflare Analytics proxy for full automation",
                    "includedRequestsMonthly":  0,
                    "requestsThisMonth":  0,
@@ -64,7 +64,7 @@
                                                      "label":  "not_read",
                                                      "realtime":  false,
                                                      "source":  "No GSC CSV found",
-                                                     "capturedAt":  "2026-07-21T03:51:44.4334775Z",
+                                                     "capturedAt":  "2026-07-24T03:19:13.7443797Z",
                                                      "syncedSites":  0,
                                                      "errors":  25,
                                                      "clicks":  0,
@@ -79,10 +79,10 @@
                                            }
                       },
     "gscSearchAnalytics":  {
-                               "generatedAt":  "2026-07-21T03:51:44.4334775Z",
+                               "generatedAt":  "2026-07-24T03:19:13.7443797Z",
                                "range":  {
-                                             "startDate":  "2026-07-21",
-                                             "endDate":  "2026-07-21",
+                                             "startDate":  "2026-07-24",
+                                             "endDate":  "2026-07-24",
                                              "days":  1
                                          },
                                "summary":  {
@@ -452,7 +452,7 @@
                                           ]
                            },
     "k1Monitor":  {
-                      "generatedAt":  "2026-07-21T03:51:44.5448422Z",
+                      "generatedAt":  "2026-07-24T03:19:13.8662571Z",
                       "sites":  [
                                     {
                                         "id":  "PK-P1-k1pakistan.com",
@@ -513,7 +513,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -577,7 +577,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -641,7 +641,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -705,7 +705,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -769,7 +769,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -833,7 +833,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -897,7 +897,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -961,7 +961,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1025,7 +1025,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1089,7 +1089,7 @@
                                                       },
                                         "gscSearchSynced":  false,
                                         "nextAction":  "gsc_wait",
-                                        "updatedAt":  "Local file refresh 2026-07-21",
+                                        "updatedAt":  "Local file refresh 2026-07-24",
                                         "issues":  [
                                                        "gsc_wait"
                                                    ]
@@ -1133,7 +1133,7 @@
                                                             "complete":  0,
                                                             "sitemapComplete":  25,
                                                             "source":  "local-refresh",
-                                                            "generatedAt":  "2026-07-21T03:51:45.1441035Z"
+                                                            "generatedAt":  "2026-07-24T03:19:14.5011254Z"
                                                         }
                                           }
                       },
@@ -1380,8 +1380,8 @@
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-21 12:40",
-                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
+                      "latestLocalUpdate":  "2026-07-24 12:17",
+                      "latestLocalFile":  "submit-urls-2026-07-24.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1410,7 +1410,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1445,8 +1445,8 @@
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-21 12:40",
-                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
+                      "latestLocalUpdate":  "2026-07-24 12:17",
+                      "latestLocalFile":  "submit-urls-2026-07-24.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1475,7 +1475,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1510,8 +1510,8 @@
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-21 12:40",
-                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
+                      "latestLocalUpdate":  "2026-07-24 12:17",
+                      "latestLocalFile":  "submit-urls-2026-07-24.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1540,7 +1540,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1575,8 +1575,8 @@
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-21 12:40",
-                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
+                      "latestLocalUpdate":  "2026-07-24 12:17",
+                      "latestLocalFile":  "submit-urls-2026-07-24.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1605,7 +1605,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1640,8 +1640,8 @@
                       "contentCalendarCount":  0,
                       "contentBacklogCount":  0,
                       "internalLinkCount":  0,
-                      "latestLocalUpdate":  "2026-07-21 12:40",
-                      "latestLocalFile":  "submit-urls-2026-07-21.txt",
+                      "latestLocalUpdate":  "2026-07-24 12:17",
+                      "latestLocalFile":  "submit-urls-2026-07-24.txt",
                       "importantPages":  [
                                              "/404.html",
                                              "/about/",
@@ -1670,7 +1670,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait, manifest_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait",
                                      "manifest_wait"
@@ -1735,7 +1735,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1799,7 +1799,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1863,7 +1863,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1927,7 +1927,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -1991,7 +1991,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2055,7 +2055,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2119,7 +2119,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2183,7 +2183,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2247,7 +2247,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2311,7 +2311,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2367,7 +2367,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2423,7 +2423,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2479,7 +2479,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2535,7 +2535,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2591,7 +2591,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2647,7 +2647,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2703,7 +2703,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2759,7 +2759,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2815,7 +2815,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
@@ -2871,7 +2871,7 @@
                                     },
                       "gscSearchSynced":  false,
                       "nextAction":  "gsc_wait",
-                      "updatedAt":  "Local file refresh 2026-07-21",
+                      "updatedAt":  "Local file refresh 2026-07-24",
                       "issues":  [
                                      "gsc_wait"
                                  ]
